@@ -1,0 +1,1501 @@
+data,pais,iso_alpha,categoria,produto,segmento,vendas,lucro,quantidade,satisfacao
+2023-01-01,Chile,CHL,Roupas,Calça,Governo,45.3,8.32,1,2.9
+2023-01-01,Mexico,MEX,Móveis,Cadeira,Corporativo,1714.5,454.38,4,2.9
+2023-01-01,Chile,CHL,Roupas,Camiseta,Corporativo,234.05,123.82,5,1.3
+2023-01-01,United States,USA,Alimentos,Biscoito,Consumidor,207.1,39.03,13,4.6
+2023-01-01,Mexico,MEX,Móveis,Sofá,Consumidor,2990.15,1364.54,11,2.5
+2023-01-01,Peru,PER,Beleza,Shampoo,Corporativo,379.62,126.69,12,1.7
+2023-01-01,United States,USA,Roupas,Calça,Consumidor,678.36,274.62,10,2.8
+2023-01-01,Peru,PER,Móveis,Sofá,Consumidor,1184.46,171.14,3,2.3
+2023-01-02,Chile,CHL,Eletrônicos,Celular,Corporativo,1979.14,195.98,3,1.9
+2023-01-02,Canada,CAN,Beleza,Perfume,Governo,159.17,34.4,5,1.0
+2023-01-02,Peru,PER,Eletrônicos,Fone de Ouvido,Consumidor,7974.84,3366.44,14,1.5
+2023-01-02,Chile,CHL,Móveis,Mesa,Consumidor,1686.2,291.5,5,4.9
+2023-01-03,United States,USA,Beleza,Perfume,Consumidor,258.87,18.25,7,3.4
+2023-01-04,Spain,ESP,Beleza,Perfume,Consumidor,15.01,5.42,1,3.8
+2023-01-04,Canada,CAN,Alimentos,Café,Consumidor,75.2,-8.69,9,4.8
+2023-01-04,Mexico,MEX,Roupas,Calça,Corporativo,154.17,79.08,3,2.1
+2023-01-04,Peru,PER,Roupas,Camiseta,Consumidor,616.66,204.38,10,1.0
+2023-01-04,Portugal,PRT,Móveis,Sofá,Corporativo,3600.51,723.0,16,2.9
+2023-01-04,United States,USA,Alimentos,Chocolate,Consumidor,95.81,13.0,6,4.9
+2023-01-05,United States,USA,Roupas,Camiseta,Consumidor,314.68,124.58,6,1.5
+2023-01-05,Canada,CAN,Beleza,Batom,Consumidor,133.38,9.6,4,1.9
+2023-01-05,Portugal,PRT,Alimentos,Chocolate,Governo,133.83,-14.4,6,3.1
+2023-01-05,Portugal,PRT,Beleza,Shampoo,Corporativo,187.0,28.09,9,1.3
+2023-01-05,Portugal,PRT,Móveis,Mesa,Corporativo,8378.4,802.51,19,4.7
+2023-01-05,Peru,PER,Alimentos,Biscoito,Corporativo,339.29,16.0,15,1.5
+2023-01-05,Portugal,PRT,Alimentos,Biscoito,Corporativo,269.4,-37.57,17,1.8
+2023-01-06,Mexico,MEX,Roupas,Camiseta,Consumidor,80.52,4.3,2,3.5
+2023-01-06,Mexico,MEX,Eletrônicos,Notebook,Consumidor,11963.87,1308.88,16,1.3
+2023-01-06,Chile,CHL,Móveis,Mesa,Consumidor,662.86,278.7,3,1.9
+2023-01-06,Canada,CAN,Móveis,Mesa,Consumidor,5199.24,1392.43,12,2.7
+2023-01-07,Portugal,PRT,Beleza,Perfume,Consumidor,496.51,25.66,12,1.4
+2023-01-07,Peru,PER,Alimentos,Café,Corporativo,53.0,11.62,3,2.8
+2023-01-07,Portugal,PRT,Beleza,Batom,Governo,192.12,83.83,7,1.7
+2023-01-07,Colombia,COL,Alimentos,Café,Corporativo,416.16,32.79,18,4.2
+2023-01-08,Brazil,BRA,Roupas,Calça,Governo,742.93,152.09,10,4.2
+2023-01-08,Peru,PER,Beleza,Batom,Corporativo,219.04,11.67,5,2.7
+2023-01-08,Brazil,BRA,Beleza,Perfume,Consumidor,466.41,-50.34,18,2.6
+2023-01-08,Peru,PER,Roupas,Calça,Consumidor,449.01,-2.11,11,4.7
+2023-01-09,Brazil,BRA,Beleza,Perfume,Consumidor,209.59,42.87,5,4.2
+2023-01-09,Argentina,ARG,Móveis,Sofá,Corporativo,1522.69,255.34,4,3.0
+2023-01-09,Canada,CAN,Eletrônicos,Notebook,Consumidor,7906.5,-2388.81,17,1.8
+2023-01-09,Portugal,PRT,Roupas,Jaqueta,Corporativo,1120.72,356.62,15,1.3
+2023-01-10,Colombia,COL,Móveis,Cadeira,Consumidor,3251.57,1591.08,9,1.0
+2023-01-10,Portugal,PRT,Eletrônicos,Notebook,Consumidor,2533.94,133.35,10,3.6
+2023-01-10,Brazil,BRA,Roupas,Calça,Consumidor,280.37,50.44,5,1.4
+2023-01-10,United States,USA,Alimentos,Café,Corporativo,138.42,4.3,10,1.6
+2023-01-11,Peru,PER,Alimentos,Café,Corporativo,42.51,17.04,2,2.4
+2023-01-11,Colombia,COL,Móveis,Mesa,Governo,2782.43,-199.93,15,3.5
+2023-01-11,Peru,PER,Alimentos,Chocolate,Corporativo,154.25,5.15,17,4.9
+2023-01-12,Argentina,ARG,Móveis,Mesa,Governo,3306.11,339.96,10,3.1
+2023-01-12,United States,USA,Beleza,Shampoo,Corporativo,330.53,16.3,12,1.8
+2023-01-12,Canada,CAN,Eletrônicos,Fone de Ouvido,Corporativo,10014.04,1595.13,17,5.0
+2023-01-12,Argentina,ARG,Beleza,Shampoo,Consumidor,210.0,3.59,11,3.4
+2023-01-12,Portugal,PRT,Beleza,Shampoo,Governo,614.66,122.37,20,4.9
+2023-01-13,Portugal,PRT,Roupas,Camiseta,Consumidor,641.13,244.12,20,1.6
+2023-01-13,Portugal,PRT,Móveis,Sofá,Corporativo,4713.71,2324.83,19,4.0
+2023-01-13,Canada,CAN,Móveis,Cadeira,Consumidor,6153.4,2039.87,18,4.4
+2023-01-13,Spain,ESP,Alimentos,Biscoito,Consumidor,201.94,69.71,16,4.1
+2023-01-13,Mexico,MEX,Eletrônicos,Celular,Consumidor,6642.35,330.5,9,2.6
+2023-01-14,Spain,ESP,Eletrônicos,Fone de Ouvido,Corporativo,6780.5,1646.85,19,4.0
+2023-01-14,Portugal,PRT,Alimentos,Biscoito,Consumidor,123.86,36.85,6,1.1
+2023-01-14,Peru,PER,Beleza,Perfume,Corporativo,284.74,-31.13,10,5.0
+2023-01-14,Mexico,MEX,Beleza,Perfume,Corporativo,521.52,52.67,12,1.5
+2023-01-14,Brazil,BRA,Móveis,Sofá,Governo,6917.01,1423.56,13,1.5
+2023-01-14,Canada,CAN,Eletrônicos,Celular,Consumidor,1790.75,542.61,6,2.9
+2023-01-14,Brazil,BRA,Beleza,Perfume,Consumidor,73.2,5.5,4,4.0
+2023-01-15,Portugal,PRT,Eletrônicos,Celular,Governo,1709.99,231.54,4,1.7
+2023-01-15,Spain,ESP,Móveis,Mesa,Governo,4929.33,614.8,15,2.5
+2023-01-15,Colombia,COL,Eletrônicos,Fone de Ouvido,Consumidor,8137.82,1642.66,20,1.7
+2023-01-15,United States,USA,Roupas,Jaqueta,Consumidor,459.56,46.85,11,4.8
+2023-01-15,United States,USA,Beleza,Perfume,Consumidor,32.14,6.54,2,2.3
+2023-01-15,Portugal,PRT,Eletrônicos,Fone de Ouvido,Consumidor,5132.97,1558.57,10,1.2
+2023-01-16,Spain,ESP,Móveis,Mesa,Governo,4762.51,1151.75,13,1.5
+2023-01-16,Portugal,PRT,Alimentos,Chocolate,Consumidor,115.44,28.39,10,3.2
+2023-01-16,Canada,CAN,Móveis,Mesa,Consumidor,1463.36,456.51,6,2.7
+2023-01-17,Brazil,BRA,Eletrônicos,Notebook,Consumidor,7277.43,1952.24,15,4.8
+2023-01-17,Peru,PER,Móveis,Sofá,Consumidor,6258.58,1535.82,19,1.0
+2023-01-17,Colombia,COL,Móveis,Sofá,Consumidor,3780.56,-841.14,8,2.7
+2023-01-17,Colombia,COL,Alimentos,Biscoito,Consumidor,266.22,80.48,18,4.5
+2023-01-17,Argentina,ARG,Eletrônicos,Fone de Ouvido,Governo,8172.18,1844.55,18,4.9
+2023-01-18,United States,USA,Beleza,Batom,Consumidor,229.08,24.58,8,1.1
+2023-01-18,Portugal,PRT,Móveis,Mesa,Consumidor,546.8,57.0,2,4.1
+2023-01-19,Portugal,PRT,Móveis,Sofá,Consumidor,4112.0,989.3,11,1.2
+2023-01-19,Chile,CHL,Alimentos,Café,Consumidor,25.64,3.99,2,2.4
+2023-01-19,Spain,ESP,Roupas,Calça,Corporativo,791.78,94.29,17,3.7
+2023-01-20,Portugal,PRT,Eletrônicos,Celular,Corporativo,8324.96,1808.07,19,1.4
+2023-01-20,Portugal,PRT,Eletrônicos,Notebook,Consumidor,4026.61,944.28,12,2.7
+2023-01-20,Argentina,ARG,Móveis,Sofá,Corporativo,1334.36,-137.6,3,4.6
+2023-01-20,United States,USA,Eletrônicos,Celular,Consumidor,5256.92,-126.24,17,4.6
+2023-01-21,Canada,CAN,Beleza,Batom,Consumidor,114.41,-6.66,3,4.6
+2023-01-21,Portugal,PRT,Móveis,Mesa,Corporativo,2144.78,747.76,8,3.6
+2023-01-22,Spain,ESP,Roupas,Camiseta,Consumidor,45.53,6.23,1,3.7
+2023-01-22,Colombia,COL,Roupas,Jaqueta,Consumidor,632.55,90.11,14,4.3
+2023-01-22,Canada,CAN,Eletrônicos,Celular,Consumidor,2546.0,176.27,5,3.6
+2023-01-23,Mexico,MEX,Móveis,Sofá,Corporativo,1221.53,59.25,5,4.4
+2023-01-23,Colombia,COL,Alimentos,Biscoito,Consumidor,237.59,65.18,13,4.3
+2023-01-23,Canada,CAN,Móveis,Sofá,Governo,9333.77,-1434.17,18,4.3
+2023-01-23,Argentina,ARG,Móveis,Sofá,Corporativo,3759.31,774.49,16,3.9
+2023-01-25,Canada,CAN,Móveis,Cadeira,Consumidor,994.84,299.21,2,2.3
+2023-01-25,United States,USA,Móveis,Cadeira,Consumidor,9612.4,1155.03,19,5.0
+2023-01-25,Colombia,COL,Roupas,Calça,Consumidor,518.83,156.77,11,3.2
+2023-01-25,Canada,CAN,Eletrônicos,Fone de Ouvido,Corporativo,3057.23,1805.67,12,1.0
+2023-01-25,Peru,PER,Móveis,Mesa,Consumidor,9287.03,3131.02,20,1.4
+2023-01-25,United States,USA,Beleza,Batom,Corporativo,292.87,49.92,14,4.6
+2023-01-25,Canada,CAN,Eletrônicos,Notebook,Consumidor,5440.0,591.88,16,1.2
+2023-01-26,Chile,CHL,Móveis,Sofá,Corporativo,8827.93,4921.73,18,2.4
+2023-01-26,Brazil,BRA,Eletrônicos,Fone de Ouvido,Corporativo,2590.15,135.02,4,1.5
+2023-01-26,Portugal,PRT,Roupas,Calça,Governo,606.72,103.56,19,2.6
+2023-01-26,United States,USA,Móveis,Mesa,Consumidor,836.62,262.55,2,2.6
+2023-01-27,Colombia,COL,Beleza,Perfume,Corporativo,513.35,47.59,16,1.9
+2023-01-27,Chile,CHL,Beleza,Batom,Consumidor,170.27,17.75,5,1.7
+2023-01-28,Colombia,COL,Móveis,Mesa,Consumidor,3508.03,1215.99,7,3.4
+2023-01-28,Portugal,PRT,Beleza,Shampoo,Consumidor,134.44,40.07,5,3.3
+2023-01-28,Chile,CHL,Beleza,Batom,Governo,125.39,22.43,4,3.9
+2023-01-28,Colombia,COL,Roupas,Calça,Consumidor,502.32,23.84,15,3.7
+2023-01-28,Mexico,MEX,Beleza,Perfume,Corporativo,145.32,45.49,8,2.6
+2023-01-29,Brazil,BRA,Beleza,Shampoo,Corporativo,428.74,83.8,20,2.5
+2023-01-29,Spain,ESP,Eletrônicos,Celular,Consumidor,7234.37,2389.27,15,2.9
+2023-01-29,United States,USA,Beleza,Batom,Corporativo,68.89,5.64,2,3.7
+2023-01-29,Brazil,BRA,Móveis,Cadeira,Consumidor,4143.29,1180.54,16,2.1
+2023-01-29,Spain,ESP,Móveis,Sofá,Corporativo,7892.52,2953.23,20,3.4
+2023-01-30,Mexico,MEX,Roupas,Calça,Corporativo,1108.53,236.87,18,3.4
+2023-01-31,Argentina,ARG,Eletrônicos,Fone de Ouvido,Consumidor,1344.37,462.93,3,4.3
+2023-02-01,Peru,PER,Móveis,Mesa,Governo,4445.59,1465.83,13,2.5
+2023-02-02,Canada,CAN,Roupas,Camiseta,Consumidor,296.83,67.17,10,2.8
+2023-02-02,Peru,PER,Roupas,Camiseta,Consumidor,577.99,93.9,20,4.2
+2023-02-02,Chile,CHL,Móveis,Mesa,Consumidor,2367.45,-113.31,7,1.2
+2023-02-03,Mexico,MEX,Eletrônicos,Fone de Ouvido,Corporativo,9477.67,3048.3,19,1.8
+2023-02-03,Portugal,PRT,Roupas,Jaqueta,Corporativo,601.54,215.73,14,2.5
+2023-02-03,Colombia,COL,Eletrônicos,Celular,Consumidor,11422.1,3892.22,20,3.0
+2023-02-03,United States,USA,Eletrônicos,Notebook,Consumidor,3252.93,1203.91,5,2.4
+2023-02-03,United States,USA,Móveis,Sofá,Corporativo,3085.53,643.33,9,2.2
+2023-02-03,Canada,CAN,Beleza,Batom,Consumidor,43.71,6.54,2,2.0
+2023-02-04,Argentina,ARG,Roupas,Calça,Consumidor,449.0,92.15,6,3.9
+2023-02-04,United States,USA,Roupas,Camiseta,Consumidor,876.09,397.55,18,2.1
+2023-02-04,Brazil,BRA,Eletrônicos,Fone de Ouvido,Governo,3306.62,-355.07,5,3.8
+2023-02-04,Argentina,ARG,Móveis,Cadeira,Consumidor,1813.77,235.05,8,2.7
+2023-02-04,Colombia,COL,Beleza,Shampoo,Corporativo,18.87,-1.51,1,1.4
+2023-02-04,Argentina,ARG,Beleza,Batom,Corporativo,488.91,316.79,14,1.1
+2023-02-05,United States,USA,Roupas,Jaqueta,Consumidor,422.72,121.67,11,4.7
+2023-02-05,Peru,PER,Alimentos,Biscoito,Consumidor,329.15,97.55,20,2.9
+2023-02-05,Peru,PER,Eletrônicos,Fone de Ouvido,Corporativo,1263.37,431.39,5,4.3
+2023-02-05,Colombia,COL,Roupas,Jaqueta,Consumidor,619.08,106.45,10,4.4
+2023-02-05,Peru,PER,Eletrônicos,Celular,Corporativo,5777.87,1306.84,15,1.3
+2023-02-05,Argentina,ARG,Beleza,Perfume,Consumidor,212.73,-12.42,9,2.9
+2023-02-06,Mexico,MEX,Beleza,Batom,Corporativo,430.1,7.08,10,2.3
+2023-02-06,Spain,ESP,Alimentos,Chocolate,Corporativo,53.25,7.75,3,3.4
+2023-02-06,Argentina,ARG,Eletrônicos,Fone de Ouvido,Consumidor,5457.79,184.59,13,4.8
+2023-02-07,Canada,CAN,Eletrônicos,Notebook,Corporativo,5270.4,983.2,18,4.1
+2023-02-07,Argentina,ARG,Alimentos,Chocolate,Corporativo,110.48,38.44,7,3.6
+2023-02-07,Argentina,ARG,Eletrônicos,Celular,Consumidor,7022.37,865.59,16,1.9
+2023-02-07,Chile,CHL,Móveis,Cadeira,Consumidor,514.7,117.11,2,5.0
+2023-02-07,United States,USA,Roupas,Jaqueta,Consumidor,1388.35,555.97,19,1.4
+2023-02-08,Argentina,ARG,Alimentos,Café,Consumidor,251.96,0.3,12,4.7
+2023-02-08,Portugal,PRT,Alimentos,Chocolate,Consumidor,81.75,-6.95,7,2.7
+2023-02-08,Canada,CAN,Roupas,Camiseta,Consumidor,1191.07,382.53,17,4.8
+2023-02-08,Spain,ESP,Alimentos,Chocolate,Consumidor,291.87,15.94,20,2.7
+2023-02-08,United States,USA,Alimentos,Café,Governo,180.89,56.32,8,1.3
+2023-02-08,United States,USA,Móveis,Mesa,Corporativo,7368.09,1373.92,17,1.3
+2023-02-08,Spain,ESP,Beleza,Perfume,Governo,139.29,5.81,4,2.9
+2023-02-08,Colombia,COL,Beleza,Shampoo,Consumidor,18.02,5.4,1,1.9
+2023-02-08,Peru,PER,Móveis,Sofá,Consumidor,4550.57,1502.74,14,4.5
+2023-02-08,Chile,CHL,Móveis,Mesa,Consumidor,3209.53,-179.2,10,1.2
+2023-02-09,Mexico,MEX,Móveis,Sofá,Consumidor,4180.24,2516.82,11,4.9
+2023-02-09,Mexico,MEX,Beleza,Shampoo,Consumidor,219.57,25.82,5,1.5
+2023-02-10,Peru,PER,Beleza,Shampoo,Corporativo,34.61,9.98,1,2.0
+2023-02-10,Colombia,COL,Beleza,Batom,Consumidor,444.24,179.58,11,4.9
+2023-02-10,Mexico,MEX,Eletrônicos,Fone de Ouvido,Corporativo,886.24,57.42,2,1.9
+2023-02-10,Brazil,BRA,Móveis,Mesa,Corporativo,3976.12,1742.94,11,2.0
+2023-02-11,Portugal,PRT,Roupas,Jaqueta,Consumidor,603.81,121.12,14,1.8
+2023-02-11,Portugal,PRT,Móveis,Mesa,Consumidor,10247.76,8.17,20,1.9
+2023-02-11,Canada,CAN,Beleza,Perfume,Corporativo,294.12,3.09,9,3.9
+2023-02-11,Brazil,BRA,Móveis,Cadeira,Governo,7679.55,1093.19,19,5.0
+2023-02-11,Portugal,PRT,Alimentos,Chocolate,Consumidor,172.46,20.35,8,4.9
+2023-02-11,Peru,PER,Móveis,Cadeira,Consumidor,7288.06,614.98,18,1.3
+2023-02-11,Mexico,MEX,Beleza,Perfume,Consumidor,304.9,131.37,8,2.5
+2023-02-12,Portugal,PRT,Eletrônicos,Notebook,Consumidor,6809.96,3683.37,18,3.8
+2023-02-12,Peru,PER,Beleza,Perfume,Governo,85.98,18.49,3,2.8
+2023-02-13,Canada,CAN,Móveis,Cadeira,Consumidor,5451.18,795.65,11,4.5
+2023-02-13,Canada,CAN,Roupas,Calça,Consumidor,749.52,103.64,11,4.3
+2023-02-13,United States,USA,Móveis,Cadeira,Consumidor,1178.43,418.77,5,4.5
+2023-02-13,Colombia,COL,Móveis,Cadeira,Consumidor,7869.49,2304.69,20,4.3
+2023-02-13,Mexico,MEX,Alimentos,Biscoito,Corporativo,284.92,73.71,18,4.5
+2023-02-14,United States,USA,Eletrônicos,Fone de Ouvido,Corporativo,4611.0,425.66,12,4.1
+2023-02-15,Peru,PER,Alimentos,Café,Consumidor,125.77,0.58,13,2.8
+2023-02-15,Colombia,COL,Alimentos,Café,Corporativo,21.39,7.27,1,4.4
+2023-02-15,Chile,CHL,Eletrônicos,Notebook,Consumidor,10434.09,4313.29,16,2.3
+2023-02-15,Colombia,COL,Alimentos,Biscoito,Consumidor,163.87,19.68,12,4.3
+2023-02-16,Portugal,PRT,Beleza,Perfume,Governo,184.91,48.02,12,4.6
+2023-02-16,Portugal,PRT,Eletrônicos,Celular,Consumidor,4655.58,562.35,11,1.9
+2023-02-16,Peru,PER,Móveis,Cadeira,Consumidor,4312.58,718.22,8,3.4
+2023-02-16,Mexico,MEX,Beleza,Batom,Governo,188.03,34.32,8,4.0
+2023-02-16,Colombia,COL,Beleza,Batom,Corporativo,315.07,61.95,15,1.5
+2023-02-16,Peru,PER,Móveis,Cadeira,Consumidor,9215.51,4570.58,19,3.6
+2023-02-16,Chile,CHL,Roupas,Camiseta,Corporativo,592.77,29.65,10,2.8
+2023-02-17,Portugal,PRT,Móveis,Sofá,Consumidor,434.71,144.81,1,1.7
+2023-02-17,Brazil,BRA,Beleza,Perfume,Governo,262.64,46.18,7,3.9
+2023-02-17,Portugal,PRT,Beleza,Perfume,Governo,36.37,5.54,2,4.9
+2023-02-18,Chile,CHL,Móveis,Cadeira,Consumidor,1912.23,121.89,9,1.7
+2023-02-18,Argentina,ARG,Alimentos,Café,Consumidor,92.57,-13.34,4,1.9
+2023-02-18,United States,USA,Roupas,Calça,Corporativo,537.75,30.47,10,3.9
+2023-02-18,Colombia,COL,Eletrônicos,Fone de Ouvido,Corporativo,6774.89,1360.76,18,3.1
+2023-02-19,Argentina,ARG,Beleza,Batom,Consumidor,174.29,-15.03,5,2.9
+2023-02-20,Portugal,PRT,Roupas,Jaqueta,Corporativo,729.61,23.25,14,2.8
+2023-02-20,United States,USA,Beleza,Perfume,Consumidor,393.55,83.97,13,4.5
+2023-02-20,United States,USA,Alimentos,Café,Consumidor,436.55,84.16,20,2.2
+2023-02-20,Spain,ESP,Móveis,Sofá,Consumidor,4426.2,504.93,11,2.0
+2023-02-20,Portugal,PRT,Roupas,Camiseta,Consumidor,627.9,186.21,15,1.7
+2023-02-20,Argentina,ARG,Alimentos,Biscoito,Consumidor,204.72,-25.6,14,3.7
+2023-02-20,Colombia,COL,Móveis,Cadeira,Consumidor,4167.99,869.67,19,3.4
+2023-02-20,Chile,CHL,Móveis,Sofá,Corporativo,2815.59,667.3,11,2.9
+2023-02-21,Chile,CHL,Beleza,Perfume,Consumidor,186.29,95.53,10,4.2
+2023-02-21,Canada,CAN,Móveis,Mesa,Governo,3166.07,826.89,14,4.8
+2023-02-21,Argentina,ARG,Beleza,Batom,Governo,782.41,106.04,18,4.6
+2023-02-22,Peru,PER,Móveis,Cadeira,Consumidor,1033.52,177.54,5,2.9
+2023-02-22,Chile,CHL,Eletrônicos,Notebook,Governo,9944.6,-474.28,17,1.0
+2023-02-22,Colombia,COL,Eletrônicos,Fone de Ouvido,Corporativo,5096.77,1316.31,7,1.0
+2023-02-22,Chile,CHL,Alimentos,Chocolate,Corporativo,195.56,56.82,15,3.8
+2023-02-22,Canada,CAN,Beleza,Shampoo,Governo,709.83,-40.65,17,4.3
+2023-02-22,Colombia,COL,Móveis,Sofá,Corporativo,471.69,58.45,1,2.6
+2023-02-22,Canada,CAN,Alimentos,Chocolate,Consumidor,170.39,3.07,14,1.1
+2023-02-22,Chile,CHL,Eletrônicos,Celular,Corporativo,4240.77,-549.97,9,4.8
+2023-02-23,Chile,CHL,Eletrônicos,Notebook,Consumidor,7976.16,3310.71,11,4.2
+2023-02-23,Colombia,COL,Alimentos,Café,Corporativo,404.81,8.58,18,1.3
+2023-02-23,Brazil,BRA,Beleza,Shampoo,Consumidor,27.52,2.31,1,3.6
+2023-02-23,Mexico,MEX,Alimentos,Café,Corporativo,76.13,18.86,8,4.1
+2023-02-23,Canada,CAN,Roupas,Calça,Consumidor,1028.5,47.26,15,4.3
+2023-02-23,Portugal,PRT,Roupas,Jaqueta,Consumidor,230.28,-6.84,5,2.1
+2023-02-23,Argentina,ARG,Alimentos,Café,Corporativo,23.19,6.08,2,4.6
+2023-02-23,Chile,CHL,Beleza,Batom,Consumidor,833.05,319.61,19,1.4
+2023-02-24,Mexico,MEX,Beleza,Shampoo,Corporativo,38.26,10.09,1,4.7
+2023-02-24,Spain,ESP,Beleza,Shampoo,Corporativo,531.44,177.64,17,4.0
+2023-02-24,Brazil,BRA,Móveis,Sofá,Consumidor,2801.37,855.56,7,1.7
+2023-02-24,Mexico,MEX,Eletrônicos,Fone de Ouvido,Consumidor,3836.45,109.54,15,4.7
+2023-02-24,Peru,PER,Alimentos,Café,Corporativo,61.94,4.94,4,1.2
+2023-02-25,Chile,CHL,Beleza,Perfume,Corporativo,32.46,10.43,2,4.6
+2023-02-25,Brazil,BRA,Alimentos,Café,Consumidor,181.08,2.83,10,3.7
+2023-02-26,United States,USA,Alimentos,Café,Corporativo,179.97,5.44,15,2.3
+2023-02-26,Argentina,ARG,Móveis,Cadeira,Consumidor,3596.83,570.5,17,3.1
+2023-02-27,Colombia,COL,Roupas,Camiseta,Consumidor,176.23,44.98,4,2.7
+2023-02-27,Chile,CHL,Alimentos,Café,Consumidor,327.9,127.65,17,2.4
+2023-02-27,Peru,PER,Beleza,Batom,Consumidor,360.07,31.05,12,1.8
+2023-02-27,Brazil,BRA,Alimentos,Biscoito,Corporativo,79.09,19.95,7,3.1
+2023-02-27,Chile,CHL,Móveis,Sofá,Governo,2260.91,708.05,7,4.7
+2023-02-27,Colombia,COL,Eletrônicos,Fone de Ouvido,Consumidor,3197.59,483.69,6,3.3
+2023-02-28,Argentina,ARG,Alimentos,Chocolate,Consumidor,46.82,2.31,4,1.5
+2023-02-28,United States,USA,Alimentos,Biscoito,Consumidor,318.09,159.05,18,2.2
+2023-02-28,Portugal,PRT,Móveis,Mesa,Consumidor,6527.78,2138.03,20,4.0
+2023-03-01,Brazil,BRA,Eletrônicos,Celular,Consumidor,6846.01,891.87,17,1.8
+2023-03-01,Chile,CHL,Beleza,Perfume,Governo,207.6,30.54,10,4.5
+2023-03-01,Canada,CAN,Eletrônicos,Celular,Corporativo,5646.67,338.1,18,2.2
+2023-03-02,Peru,PER,Móveis,Sofá,Corporativo,3250.79,1144.73,17,3.5
+2023-03-02,Argentina,ARG,Alimentos,Biscoito,Consumidor,407.12,124.13,20,3.1
+2023-03-02,Argentina,ARG,Alimentos,Chocolate,Consumidor,275.56,-23.01,17,4.8
+2023-03-03,Spain,ESP,Eletrônicos,Celular,Consumidor,11070.09,2972.21,19,1.9
+2023-03-03,United States,USA,Beleza,Perfume,Corporativo,155.13,38.46,5,3.4
+2023-03-03,Brazil,BRA,Beleza,Batom,Consumidor,268.05,98.07,9,2.9
+2023-03-03,Peru,PER,Eletrônicos,Fone de Ouvido,Consumidor,8656.77,3950.79,15,1.9
+2023-03-03,Canada,CAN,Beleza,Batom,Consumidor,25.5,5.71,1,2.4
+2023-03-04,Portugal,PRT,Eletrônicos,Notebook,Consumidor,4863.32,959.63,9,4.4
+2023-03-04,Peru,PER,Alimentos,Café,Consumidor,232.35,-26.44,12,2.1
+2023-03-04,Mexico,MEX,Móveis,Cadeira,Consumidor,1062.38,-39.42,2,4.3
+2023-03-04,Argentina,ARG,Móveis,Mesa,Consumidor,322.12,19.31,1,2.9
+2023-03-04,Argentina,ARG,Alimentos,Chocolate,Consumidor,95.32,30.07,4,2.0
+2023-03-04,Canada,CAN,Beleza,Shampoo,Consumidor,121.72,67.07,3,4.2
+2023-03-04,Spain,ESP,Roupas,Jaqueta,Consumidor,188.76,46.35,3,2.0
+2023-03-04,Spain,ESP,Alimentos,Biscoito,Consumidor,40.67,8.04,5,2.8
+2023-03-05,Colombia,COL,Móveis,Mesa,Consumidor,6259.44,1629.94,15,2.1
+2023-03-06,United States,USA,Eletrônicos,Fone de Ouvido,Consumidor,5351.37,1123.2,8,2.3
+2023-03-06,Brazil,BRA,Móveis,Cadeira,Consumidor,5270.1,1683.91,10,4.1
+2023-03-06,Spain,ESP,Roupas,Camiseta,Consumidor,215.4,-6.21,4,1.1
+2023-03-07,United States,USA,Beleza,Shampoo,Consumidor,220.03,43.53,9,3.9
+2023-03-07,Mexico,MEX,Alimentos,Chocolate,Corporativo,46.98,11.51,4,1.8
+2023-03-08,United States,USA,Beleza,Shampoo,Corporativo,221.78,61.83,5,3.4
+2023-03-08,Spain,ESP,Roupas,Camiseta,Governo,456.28,31.81,8,4.5
+2023-03-08,Peru,PER,Roupas,Calça,Consumidor,518.29,165.62,15,4.5
+2023-03-09,Argentina,ARG,Beleza,Batom,Corporativo,279.86,85.53,16,2.2
+2023-03-09,United States,USA,Roupas,Camiseta,Governo,498.58,57.24,10,4.7
+2023-03-10,United States,USA,Alimentos,Biscoito,Consumidor,292.2,141.37,18,1.1
+2023-03-10,Canada,CAN,Eletrônicos,Notebook,Consumidor,7001.8,2633.57,13,4.8
+2023-03-10,Argentina,ARG,Móveis,Sofá,Consumidor,3707.93,905.77,9,3.0
+2023-03-10,Brazil,BRA,Alimentos,Chocolate,Consumidor,69.61,31.53,8,4.1
+2023-03-10,Peru,PER,Roupas,Camiseta,Corporativo,374.51,130.18,6,3.7
+2023-03-10,Peru,PER,Eletrônicos,Notebook,Consumidor,5773.88,2492.39,10,4.2
+2023-03-10,Portugal,PRT,Móveis,Sofá,Consumidor,3624.25,-969.48,13,3.5
+2023-03-11,Argentina,ARG,Beleza,Batom,Corporativo,69.3,36.92,2,4.4
+2023-03-11,Brazil,BRA,Roupas,Calça,Consumidor,215.36,12.52,7,1.1
+2023-03-13,Peru,PER,Beleza,Shampoo,Consumidor,163.72,-7.23,6,2.3
+2023-03-13,Peru,PER,Eletrônicos,Fone de Ouvido,Consumidor,6275.53,1651.71,11,4.8
+2023-03-14,Spain,ESP,Roupas,Calça,Governo,692.51,134.28,10,2.1
+2023-03-14,Brazil,BRA,Móveis,Cadeira,Governo,3018.8,313.44,14,4.1
+2023-03-15,Chile,CHL,Beleza,Batom,Consumidor,519.29,194.37,17,3.3
+2023-03-16,Brazil,BRA,Eletrônicos,Notebook,Consumidor,2900.83,849.8,8,1.4
+2023-03-16,Spain,ESP,Eletrônicos,Notebook,Corporativo,7819.3,381.43,20,3.8
+2023-03-16,Argentina,ARG,Móveis,Mesa,Governo,3396.49,466.59,15,2.7
+2023-03-16,Colombia,COL,Alimentos,Café,Corporativo,46.43,3.56,2,3.2
+2023-03-16,United States,USA,Alimentos,Chocolate,Consumidor,232.82,91.23,12,4.5
+2023-03-16,Colombia,COL,Eletrônicos,Notebook,Corporativo,2579.75,24.42,7,4.7
+2023-03-17,Spain,ESP,Beleza,Shampoo,Corporativo,342.13,43.25,13,1.7
+2023-03-17,Portugal,PRT,Eletrônicos,Fone de Ouvido,Consumidor,7449.83,5151.26,12,3.4
+2023-03-17,Portugal,PRT,Alimentos,Biscoito,Consumidor,282.18,92.72,17,2.9
+2023-03-17,Portugal,PRT,Móveis,Cadeira,Consumidor,1876.76,29.44,4,4.6
+2023-03-17,Portugal,PRT,Roupas,Calça,Corporativo,340.52,67.65,13,3.8
+2023-03-19,Peru,PER,Alimentos,Café,Consumidor,214.74,67.4,18,3.0
+2023-03-19,Canada,CAN,Roupas,Jaqueta,Consumidor,732.83,91.02,10,1.8
+2023-03-19,United States,USA,Roupas,Calça,Governo,692.3,248.82,13,2.2
+2023-03-19,Argentina,ARG,Beleza,Perfume,Consumidor,209.67,36.02,5,2.9
+2023-03-19,Brazil,BRA,Roupas,Camiseta,Corporativo,75.56,19.64,3,4.9
+2023-03-19,Mexico,MEX,Beleza,Shampoo,Corporativo,533.09,116.59,14,3.3
+2023-03-21,Portugal,PRT,Móveis,Cadeira,Corporativo,8063.08,85.64,15,1.3
+2023-03-21,Canada,CAN,Roupas,Jaqueta,Consumidor,373.91,53.88,7,1.7
+2023-03-22,Portugal,PRT,Alimentos,Biscoito,Corporativo,137.0,62.63,8,2.8
+2023-03-22,Portugal,PRT,Roupas,Calça,Consumidor,237.66,93.85,4,1.2
+2023-03-22,Mexico,MEX,Móveis,Cadeira,Consumidor,8348.81,2310.61,19,3.2
+2023-03-22,Chile,CHL,Móveis,Mesa,Governo,1721.4,-48.32,8,3.3
+2023-03-22,Chile,CHL,Roupas,Jaqueta,Consumidor,558.59,216.66,12,3.9
+2023-03-22,Chile,CHL,Beleza,Shampoo,Corporativo,164.26,-6.59,4,4.6
+2023-03-23,Peru,PER,Roupas,Camiseta,Consumidor,639.76,154.76,17,3.5
+2023-03-23,Chile,CHL,Beleza,Batom,Corporativo,26.82,5.23,1,2.3
+2023-03-23,Colombia,COL,Beleza,Perfume,Governo,170.85,9.45,6,1.6
+2023-03-24,Peru,PER,Móveis,Cadeira,Consumidor,7602.94,3184.13,17,4.4
+2023-03-24,Argentina,ARG,Móveis,Cadeira,Corporativo,458.11,87.89,1,4.5
+2023-03-25,Spain,ESP,Alimentos,Café,Consumidor,113.67,29.05,7,3.7
+2023-03-25,Colombia,COL,Eletrônicos,Fone de Ouvido,Consumidor,5026.44,1071.13,7,4.6
+2023-03-25,Mexico,MEX,Eletrônicos,Notebook,Corporativo,4050.89,939.94,14,4.1
+2023-03-26,Chile,CHL,Eletrônicos,Notebook,Corporativo,8591.71,2370.29,13,1.7
+2023-03-26,United States,USA,Roupas,Camiseta,Consumidor,414.99,56.55,10,4.8
+2023-03-27,Chile,CHL,Alimentos,Café,Consumidor,115.12,25.6,14,1.1
+2023-03-27,Chile,CHL,Eletrônicos,Fone de Ouvido,Consumidor,3551.37,909.96,9,3.2
+2023-03-27,United States,USA,Móveis,Mesa,Consumidor,4053.45,1570.56,12,1.2
+2023-03-27,Argentina,ARG,Roupas,Jaqueta,Consumidor,496.84,78.38,18,2.7
+2023-03-27,United States,USA,Roupas,Camiseta,Consumidor,814.79,176.6,16,2.9
+2023-03-28,Brazil,BRA,Móveis,Sofá,Consumidor,3407.33,-77.28,13,2.4
+2023-03-28,United States,USA,Eletrônicos,Celular,Consumidor,3657.53,559.39,14,2.0
+2023-03-29,Chile,CHL,Eletrônicos,Notebook,Consumidor,6512.58,31.34,13,2.6
+2023-03-29,Portugal,PRT,Eletrônicos,Celular,Governo,9512.87,1261.69,16,4.9
+2023-03-30,Peru,PER,Móveis,Sofá,Consumidor,4428.61,221.66,12,4.5
+2023-03-30,Mexico,MEX,Eletrônicos,Notebook,Corporativo,5931.63,1815.86,12,4.2
+2023-03-30,Portugal,PRT,Alimentos,Chocolate,Corporativo,55.01,15.75,4,4.7
+2023-03-30,Canada,CAN,Beleza,Batom,Consumidor,794.91,87.06,18,3.1
+2023-03-30,Peru,PER,Alimentos,Café,Consumidor,272.69,39.65,17,4.0
+2023-03-31,Brazil,BRA,Eletrônicos,Notebook,Corporativo,8149.49,462.98,19,3.3
+2023-03-31,Mexico,MEX,Móveis,Cadeira,Consumidor,3236.33,540.66,11,3.0
+2023-03-31,Chile,CHL,Roupas,Calça,Corporativo,513.17,45.39,12,3.1
+2023-03-31,Portugal,PRT,Beleza,Perfume,Governo,375.19,-19.56,18,2.1
+2023-03-31,Spain,ESP,Eletrônicos,Celular,Governo,7906.36,610.76,15,3.6
+2023-04-01,Spain,ESP,Eletrônicos,Notebook,Consumidor,7230.9,-1076.28,20,4.3
+2023-04-02,Mexico,MEX,Eletrônicos,Celular,Consumidor,706.84,179.22,2,1.3
+2023-04-02,Chile,CHL,Alimentos,Chocolate,Consumidor,30.05,0.07,3,3.8
+2023-04-02,Peru,PER,Eletrônicos,Celular,Corporativo,9394.9,1812.04,18,4.0
+2023-04-02,Peru,PER,Roupas,Calça,Corporativo,981.34,18.18,14,3.7
+2023-04-02,Spain,ESP,Beleza,Perfume,Consumidor,299.36,29.23,10,4.3
+2023-04-02,United States,USA,Roupas,Jaqueta,Consumidor,1115.28,-73.09,16,1.8
+2023-04-03,Canada,CAN,Eletrônicos,Celular,Consumidor,4513.98,26.3,17,3.6
+2023-04-03,United States,USA,Móveis,Mesa,Consumidor,519.29,148.34,2,2.5
+2023-04-04,Brazil,BRA,Beleza,Shampoo,Consumidor,196.7,64.8,8,3.6
+2023-04-04,Mexico,MEX,Roupas,Jaqueta,Consumidor,225.68,69.55,6,3.7
+2023-04-04,Portugal,PRT,Beleza,Shampoo,Governo,367.51,143.71,15,3.6
+2023-04-05,Argentina,ARG,Móveis,Cadeira,Consumidor,5769.75,-153.81,15,3.0
+2023-04-05,Mexico,MEX,Beleza,Batom,Corporativo,573.08,181.83,13,2.0
+2023-04-05,United States,USA,Alimentos,Café,Consumidor,234.09,30.53,16,2.1
+2023-04-05,Chile,CHL,Móveis,Sofá,Consumidor,3730.38,615.54,12,2.5
+2023-04-05,United States,USA,Eletrônicos,Fone de Ouvido,Consumidor,4451.05,96.68,16,1.1
+2023-04-05,Portugal,PRT,Eletrônicos,Fone de Ouvido,Consumidor,6391.86,1938.38,10,2.6
+2023-04-05,Spain,ESP,Alimentos,Chocolate,Corporativo,320.23,25.96,17,2.5
+2023-04-06,United States,USA,Roupas,Jaqueta,Corporativo,543.73,78.48,16,2.3
+2023-04-06,Mexico,MEX,Alimentos,Café,Consumidor,67.24,19.43,3,1.8
+2023-04-06,Mexico,MEX,Beleza,Perfume,Corporativo,291.83,164.57,7,2.1
+2023-04-06,Argentina,ARG,Alimentos,Biscoito,Governo,359.49,53.73,18,2.6
+2023-04-06,Mexico,MEX,Beleza,Batom,Corporativo,266.65,35.31,7,2.2
+2023-04-06,Brazil,BRA,Roupas,Calça,Consumidor,522.2,150.57,14,3.8
+2023-04-07,Chile,CHL,Eletrônicos,Fone de Ouvido,Corporativo,3465.26,219.71,9,4.9
+2023-04-07,Colombia,COL,Alimentos,Biscoito,Governo,103.51,32.65,7,3.8
+2023-04-07,Brazil,BRA,Roupas,Camiseta,Governo,615.11,186.71,18,2.4
+2023-04-07,Portugal,PRT,Eletrônicos,Notebook,Consumidor,9452.22,2033.97,14,3.4
+2023-04-08,United States,USA,Alimentos,Chocolate,Corporativo,223.22,126.3,10,2.7
+2023-04-08,United States,USA,Beleza,Shampoo,Corporativo,210.99,57.66,14,2.4
+2023-04-08,Spain,ESP,Roupas,Calça,Consumidor,512.16,199.48,13,4.7
+2023-04-08,United States,USA,Móveis,Mesa,Consumidor,3757.69,624.49,11,3.3
+2023-04-08,United States,USA,Alimentos,Biscoito,Consumidor,37.43,10.05,2,3.6
+2023-04-08,Brazil,BRA,Eletrônicos,Fone de Ouvido,Consumidor,8374.89,828.34,17,2.0
+2023-04-08,Chile,CHL,Móveis,Cadeira,Governo,5338.84,29.31,18,2.9
+2023-04-09,Canada,CAN,Beleza,Shampoo,Governo,257.55,74.53,6,3.9
+2023-04-09,Canada,CAN,Beleza,Perfume,Consumidor,52.16,25.99,2,4.0
+2023-04-09,Colombia,COL,Alimentos,Café,Consumidor,210.73,1.54,20,1.7
+2023-04-09,Canada,CAN,Eletrônicos,Notebook,Consumidor,4417.67,999.66,10,2.5
+2023-04-09,Chile,CHL,Móveis,Sofá,Consumidor,1881.25,65.43,10,1.4
+2023-04-09,United States,USA,Beleza,Shampoo,Consumidor,172.62,35.98,5,3.5
+2023-04-09,Peru,PER,Móveis,Cadeira,Corporativo,511.47,192.55,2,4.6
+2023-04-09,Spain,ESP,Eletrônicos,Fone de Ouvido,Consumidor,7620.35,1253.44,20,2.0
+2023-04-09,Chile,CHL,Roupas,Jaqueta,Corporativo,1180.58,37.33,20,3.4
+2023-04-10,Canada,CAN,Roupas,Camiseta,Governo,439.77,47.08,8,4.4
+2023-04-10,Portugal,PRT,Roupas,Camiseta,Consumidor,1049.82,13.4,19,2.0
+2023-04-10,Mexico,MEX,Beleza,Shampoo,Governo,128.63,27.14,5,3.0
+2023-04-10,Brazil,BRA,Móveis,Sofá,Consumidor,2254.34,688.89,5,1.7
+2023-04-11,Portugal,PRT,Roupas,Camiseta,Consumidor,1368.92,-2.97,19,2.3
+2023-04-11,Peru,PER,Alimentos,Café,Consumidor,278.74,-58.23,16,4.7
+2023-04-11,Peru,PER,Alimentos,Chocolate,Consumidor,74.37,12.17,6,3.5
+2023-04-11,Spain,ESP,Eletrônicos,Notebook,Governo,499.81,115.55,1,4.0
+2023-04-11,Portugal,PRT,Alimentos,Café,Consumidor,152.46,13.38,7,2.7
+2023-04-11,Canada,CAN,Roupas,Camiseta,Corporativo,997.78,419.63,16,4.8
+2023-04-11,Spain,ESP,Móveis,Cadeira,Consumidor,494.42,-111.65,1,4.5
+2023-04-11,Brazil,BRA,Beleza,Batom,Consumidor,627.65,31.67,17,3.5
+2023-04-12,Peru,PER,Eletrônicos,Notebook,Consumidor,4592.34,539.13,9,2.0
+2023-04-13,Peru,PER,Roupas,Camiseta,Consumidor,906.6,221.01,13,3.8
+2023-04-13,United States,USA,Roupas,Jaqueta,Consumidor,387.38,-40.52,8,4.9
+2023-04-13,United States,USA,Roupas,Calça,Corporativo,381.13,93.0,6,5.0
+2023-04-13,Canada,CAN,Alimentos,Café,Corporativo,9.46,3.95,1,2.3
+2023-04-13,Spain,ESP,Beleza,Perfume,Consumidor,21.84,6.98,1,4.2
+2023-04-14,Argentina,ARG,Móveis,Cadeira,Consumidor,2468.23,410.79,7,1.3
+2023-04-14,Chile,CHL,Alimentos,Café,Corporativo,112.39,42.21,6,1.2
+2023-04-14,Mexico,MEX,Roupas,Camiseta,Consumidor,545.21,211.69,10,3.5
+2023-04-14,Canada,CAN,Beleza,Batom,Consumidor,322.26,101.56,15,2.4
+2023-04-14,Chile,CHL,Alimentos,Chocolate,Consumidor,209.45,51.29,12,3.3
+2023-04-14,Chile,CHL,Móveis,Mesa,Consumidor,3978.37,250.58,10,3.8
+2023-04-14,Chile,CHL,Eletrônicos,Notebook,Corporativo,5466.85,2805.38,20,5.0
+2023-04-14,Peru,PER,Móveis,Cadeira,Consumidor,6889.38,1606.85,14,1.5
+2023-04-15,Chile,CHL,Eletrônicos,Notebook,Consumidor,5958.4,-358.67,16,4.8
+2023-04-15,Chile,CHL,Beleza,Batom,Governo,217.85,12.38,7,1.1
+2023-04-16,Argentina,ARG,Móveis,Mesa,Corporativo,5055.5,1196.7,12,2.4
+2023-04-16,Spain,ESP,Móveis,Cadeira,Governo,3123.59,632.27,14,4.6
+2023-04-16,Canada,CAN,Roupas,Camiseta,Consumidor,245.12,6.96,7,2.1
+2023-04-16,Portugal,PRT,Móveis,Sofá,Corporativo,4294.0,1252.03,9,1.4
+2023-04-17,Chile,CHL,Móveis,Cadeira,Corporativo,2054.13,688.91,6,1.1
+2023-04-17,Chile,CHL,Móveis,Mesa,Consumidor,528.21,142.21,2,3.1
+2023-04-18,Peru,PER,Móveis,Cadeira,Governo,3930.0,721.08,15,4.2
+2023-04-18,Chile,CHL,Alimentos,Biscoito,Consumidor,168.5,30.8,14,1.6
+2023-04-18,Colombia,COL,Alimentos,Chocolate,Consumidor,286.53,47.22,15,4.5
+2023-04-18,Spain,ESP,Alimentos,Biscoito,Corporativo,247.11,23.68,15,3.6
+2023-04-18,Spain,ESP,Eletrônicos,Fone de Ouvido,Consumidor,4019.99,429.7,6,2.4
+2023-04-19,Portugal,PRT,Alimentos,Biscoito,Consumidor,58.24,17.18,3,1.8
+2023-04-19,United States,USA,Móveis,Mesa,Consumidor,4587.66,617.11,9,1.8
+2023-04-19,Peru,PER,Roupas,Jaqueta,Consumidor,867.81,-107.39,16,2.4
+2023-04-20,Peru,PER,Beleza,Perfume,Consumidor,231.03,69.36,8,2.2
+2023-04-21,Argentina,ARG,Roupas,Camiseta,Consumidor,496.66,94.74,7,1.4
+2023-04-21,Mexico,MEX,Eletrônicos,Notebook,Consumidor,11906.1,4703.35,16,4.4
+2023-04-21,Spain,ESP,Alimentos,Biscoito,Consumidor,140.57,11.28,11,2.2
+2023-04-21,Portugal,PRT,Roupas,Jaqueta,Consumidor,453.36,105.55,15,2.7
+2023-04-21,Chile,CHL,Eletrônicos,Notebook,Consumidor,3865.33,756.63,7,2.3
+2023-04-21,Peru,PER,Roupas,Camiseta,Consumidor,407.96,175.3,6,2.2
+2023-04-21,Mexico,MEX,Beleza,Batom,Corporativo,711.53,149.66,20,3.9
+2023-04-21,Spain,ESP,Eletrônicos,Celular,Consumidor,5200.45,1668.55,19,1.6
+2023-04-22,Canada,CAN,Eletrônicos,Celular,Consumidor,1746.89,634.33,4,3.1
+2023-04-22,Brazil,BRA,Móveis,Cadeira,Corporativo,2806.57,573.28,10,4.5
+2023-04-22,Portugal,PRT,Alimentos,Chocolate,Consumidor,200.52,41.83,16,3.2
+2023-04-22,Portugal,PRT,Roupas,Calça,Consumidor,669.38,69.55,13,3.4
+2023-04-22,Peru,PER,Alimentos,Chocolate,Consumidor,156.97,26.63,7,1.5
+2023-04-23,Chile,CHL,Beleza,Batom,Consumidor,197.83,79.34,11,2.2
+2023-04-23,Peru,PER,Roupas,Jaqueta,Consumidor,966.62,565.33,13,1.9
+2023-04-23,Spain,ESP,Beleza,Batom,Corporativo,422.38,90.23,16,1.6
+2023-04-23,Peru,PER,Eletrônicos,Celular,Corporativo,2649.84,251.75,7,3.0
+2023-04-23,Chile,CHL,Alimentos,Chocolate,Consumidor,274.45,147.27,19,3.0
+2023-04-23,Colombia,COL,Roupas,Calça,Corporativo,589.22,98.94,20,3.8
+2023-04-23,Canada,CAN,Eletrônicos,Notebook,Consumidor,3452.76,1253.0,8,4.0
+2023-04-23,Argentina,ARG,Alimentos,Chocolate,Consumidor,324.54,29.39,17,2.2
+2023-04-23,Brazil,BRA,Móveis,Cadeira,Consumidor,1831.73,180.73,4,2.2
+2023-04-24,Portugal,PRT,Roupas,Camiseta,Consumidor,663.94,-38.31,14,2.0
+2023-04-24,Argentina,ARG,Roupas,Jaqueta,Corporativo,271.4,58.3,6,2.2
+2023-04-24,Brazil,BRA,Beleza,Batom,Consumidor,312.03,130.28,12,4.5
+2023-04-25,Brazil,BRA,Eletrônicos,Notebook,Corporativo,5679.15,2264.12,9,1.8
+2023-04-25,Chile,CHL,Roupas,Camiseta,Corporativo,119.32,50.56,2,2.3
+2023-04-25,Colombia,COL,Alimentos,Café,Consumidor,299.22,37.0,13,4.6
+2023-04-26,Argentina,ARG,Roupas,Calça,Consumidor,367.64,125.32,11,2.4
+2023-04-26,Canada,CAN,Roupas,Camiseta,Consumidor,318.1,26.33,6,4.3
+2023-04-26,Colombia,COL,Beleza,Perfume,Corporativo,189.99,-9.37,7,2.4
+2023-04-27,Canada,CAN,Alimentos,Café,Corporativo,91.73,21.07,5,1.9
+2023-04-27,Spain,ESP,Móveis,Cadeira,Corporativo,3026.03,-376.95,12,1.7
+2023-04-27,Portugal,PRT,Móveis,Mesa,Consumidor,339.88,54.74,1,3.8
+2023-04-27,Brazil,BRA,Beleza,Shampoo,Governo,98.46,7.69,4,3.8
+2023-04-27,Peru,PER,Alimentos,Chocolate,Consumidor,53.11,22.32,3,4.4
+2023-04-28,Chile,CHL,Eletrônicos,Celular,Consumidor,4926.61,1452.59,13,2.7
+2023-04-28,Spain,ESP,Móveis,Sofá,Governo,3076.09,420.74,15,2.2
+2023-04-28,Argentina,ARG,Móveis,Cadeira,Corporativo,504.42,79.63,1,2.7
+2023-04-28,Argentina,ARG,Beleza,Shampoo,Consumidor,371.23,-0.19,11,2.6
+2023-04-28,Colombia,COL,Alimentos,Biscoito,Consumidor,249.56,86.01,19,4.2
+2023-04-28,Argentina,ARG,Alimentos,Café,Consumidor,328.52,111.8,16,2.7
+2023-04-29,Brazil,BRA,Móveis,Cadeira,Consumidor,545.54,161.26,2,3.2
+2023-04-29,Brazil,BRA,Beleza,Batom,Governo,141.54,7.52,5,4.2
+2023-04-29,United States,USA,Alimentos,Chocolate,Consumidor,45.68,-2.72,4,2.4
+2023-04-30,Peru,PER,Eletrônicos,Notebook,Corporativo,3041.63,-218.2,6,1.2
+2023-04-30,Portugal,PRT,Roupas,Camiseta,Consumidor,374.73,71.29,5,3.4
+2023-04-30,Mexico,MEX,Beleza,Perfume,Corporativo,277.86,-6.19,15,4.5
+2023-04-30,United States,USA,Alimentos,Biscoito,Consumidor,125.17,36.92,11,2.0
+2023-05-01,Argentina,ARG,Móveis,Cadeira,Consumidor,6893.85,1169.78,13,2.8
+2023-05-01,Canada,CAN,Móveis,Cadeira,Corporativo,7144.12,2621.83,19,4.0
+2023-05-02,Mexico,MEX,Alimentos,Café,Consumidor,18.79,8.63,1,4.3
+2023-05-02,Portugal,PRT,Móveis,Sofá,Corporativo,2602.65,494.54,11,1.6
+2023-05-02,Canada,CAN,Roupas,Camiseta,Consumidor,97.32,5.97,2,3.8
+2023-05-02,Portugal,PRT,Beleza,Perfume,Consumidor,307.5,-78.31,17,4.8
+2023-05-02,Brazil,BRA,Móveis,Cadeira,Consumidor,512.0,96.18,1,1.6
+2023-05-02,Mexico,MEX,Móveis,Cadeira,Consumidor,3586.83,735.24,19,1.8
+2023-05-02,Canada,CAN,Alimentos,Café,Corporativo,259.27,61.13,11,2.1
+2023-05-03,Mexico,MEX,Roupas,Camiseta,Consumidor,358.81,76.53,6,4.6
+2023-05-03,Mexico,MEX,Beleza,Shampoo,Governo,107.16,37.57,3,1.4
+2023-05-04,Mexico,MEX,Roupas,Camiseta,Corporativo,452.49,-2.39,12,4.6
+2023-05-04,Peru,PER,Móveis,Mesa,Governo,3247.92,845.05,11,3.7
+2023-05-05,Chile,CHL,Roupas,Jaqueta,Corporativo,108.08,39.1,2,3.8
+2023-05-05,Mexico,MEX,Alimentos,Biscoito,Corporativo,41.37,10.17,2,4.3
+2023-05-06,Colombia,COL,Beleza,Perfume,Consumidor,30.48,1.49,1,2.8
+2023-05-06,Chile,CHL,Beleza,Shampoo,Corporativo,172.48,41.04,5,1.7
+2023-05-06,Argentina,ARG,Eletrônicos,Celular,Corporativo,1281.64,-13.24,3,2.7
+2023-05-06,Brazil,BRA,Eletrônicos,Fone de Ouvido,Corporativo,4252.38,858.88,11,3.2
+2023-05-06,Peru,PER,Móveis,Mesa,Corporativo,5979.94,1771.6,12,4.1
+2023-05-06,Portugal,PRT,Beleza,Batom,Consumidor,310.34,84.43,11,1.0
+2023-05-07,Portugal,PRT,Móveis,Sofá,Consumidor,2237.4,815.17,11,1.5
+2023-05-07,Spain,ESP,Móveis,Sofá,Consumidor,4390.0,1426.95,13,2.9
+2023-05-07,Portugal,PRT,Beleza,Shampoo,Governo,621.82,83.01,19,1.2
+2023-05-07,Brazil,BRA,Roupas,Camiseta,Corporativo,525.91,150.71,10,2.3
+2023-05-08,Colombia,COL,Eletrônicos,Notebook,Consumidor,4772.4,-157.45,11,3.1
+2023-05-08,Colombia,COL,Roupas,Calça,Consumidor,189.78,39.14,6,3.5
+2023-05-08,Colombia,COL,Móveis,Sofá,Corporativo,6989.65,1828.5,20,3.4
+2023-05-08,United States,USA,Alimentos,Café,Consumidor,377.37,86.98,18,2.3
+2023-05-08,Chile,CHL,Beleza,Perfume,Corporativo,57.44,8.92,3,3.8
+2023-05-08,Colombia,COL,Alimentos,Café,Consumidor,273.72,-22.91,15,1.8
+2023-05-08,Brazil,BRA,Alimentos,Chocolate,Consumidor,192.56,41.39,16,4.4
+2023-05-09,Spain,ESP,Roupas,Jaqueta,Consumidor,699.47,-62.46,12,2.0
+2023-05-09,Mexico,MEX,Beleza,Perfume,Consumidor,247.24,50.35,6,1.4
+2023-05-09,Mexico,MEX,Alimentos,Café,Consumidor,89.76,21.06,7,2.9
+2023-05-09,Spain,ESP,Eletrônicos,Celular,Governo,13610.33,3067.59,20,2.8
+2023-05-10,Chile,CHL,Eletrônicos,Notebook,Consumidor,6735.41,867.84,15,3.2
+2023-05-10,Portugal,PRT,Roupas,Jaqueta,Consumidor,74.1,1.67,2,2.9
+2023-05-10,Chile,CHL,Alimentos,Biscoito,Consumidor,242.49,103.24,15,4.7
+2023-05-10,Colombia,COL,Alimentos,Biscoito,Consumidor,151.11,16.36,18,2.4
+2023-05-10,Argentina,ARG,Móveis,Sofá,Consumidor,1709.91,231.48,4,3.9
+2023-05-11,Peru,PER,Eletrônicos,Notebook,Corporativo,3071.49,161.74,8,3.8
+2023-05-11,United States,USA,Roupas,Jaqueta,Consumidor,620.16,160.7,10,4.8
+2023-05-11,Brazil,BRA,Alimentos,Chocolate,Corporativo,302.57,38.19,15,2.7
+2023-05-11,Spain,ESP,Roupas,Calça,Consumidor,1078.28,208.3,15,3.5
+2023-05-11,Brazil,BRA,Beleza,Perfume,Consumidor,572.81,88.14,19,3.2
+2023-05-11,United States,USA,Eletrônicos,Notebook,Corporativo,7778.77,168.88,15,4.8
+2023-05-11,Portugal,PRT,Móveis,Cadeira,Corporativo,6494.68,2282.84,13,3.2
+2023-05-12,Argentina,ARG,Eletrônicos,Celular,Corporativo,2102.63,378.9,4,2.7
+2023-05-12,Argentina,ARG,Alimentos,Biscoito,Corporativo,172.32,31.25,17,4.0
+2023-05-12,Peru,PER,Beleza,Perfume,Corporativo,579.68,24.05,13,4.1
+2023-05-13,Mexico,MEX,Beleza,Batom,Consumidor,146.28,40.53,4,3.8
+2023-05-13,Portugal,PRT,Roupas,Camiseta,Corporativo,353.98,86.36,8,2.0
+2023-05-13,Brazil,BRA,Roupas,Jaqueta,Consumidor,719.72,51.05,20,4.3
+2023-05-13,Canada,CAN,Beleza,Batom,Corporativo,574.19,112.35,16,2.6
+2023-05-13,Mexico,MEX,Alimentos,Biscoito,Consumidor,403.17,-12.87,19,1.8
+2023-05-13,Mexico,MEX,Móveis,Mesa,Corporativo,872.69,-20.45,2,2.3
+2023-05-14,United States,USA,Alimentos,Biscoito,Consumidor,22.74,-2.18,1,3.9
+2023-05-14,Peru,PER,Beleza,Shampoo,Consumidor,95.13,43.09,3,4.2
+2023-05-14,Chile,CHL,Roupas,Calça,Consumidor,162.1,33.51,6,2.5
+2023-05-14,Canada,CAN,Roupas,Camiseta,Consumidor,568.49,279.05,11,3.1
+2023-05-14,Brazil,BRA,Eletrônicos,Fone de Ouvido,Corporativo,9950.2,1542.72,14,4.6
+2023-05-14,Mexico,MEX,Roupas,Jaqueta,Corporativo,91.35,27.93,2,3.0
+2023-05-15,Canada,CAN,Beleza,Perfume,Consumidor,312.42,40.7,11,3.4
+2023-05-15,Colombia,COL,Móveis,Sofá,Consumidor,4513.0,811.35,16,1.3
+2023-05-15,Colombia,COL,Móveis,Sofá,Consumidor,4685.29,1436.78,9,4.8
+2023-05-16,Spain,ESP,Eletrônicos,Celular,Governo,1016.9,296.57,4,1.5
+2023-05-16,Mexico,MEX,Móveis,Sofá,Corporativo,3955.84,739.71,8,1.2
+2023-05-16,Argentina,ARG,Eletrônicos,Notebook,Governo,11044.18,3770.06,18,3.0
+2023-05-16,Canada,CAN,Alimentos,Biscoito,Consumidor,152.21,46.76,16,4.8
+2023-05-17,Colombia,COL,Beleza,Perfume,Consumidor,235.87,73.8,9,3.0
+2023-05-17,Chile,CHL,Roupas,Jaqueta,Consumidor,66.36,7.39,1,3.9
+2023-05-17,Portugal,PRT,Beleza,Perfume,Consumidor,86.22,52.34,2,2.4
+2023-05-17,Canada,CAN,Eletrônicos,Notebook,Corporativo,12378.27,1956.97,18,1.9
+2023-05-17,Brazil,BRA,Beleza,Perfume,Corporativo,747.36,99.99,19,3.1
+2023-05-18,Brazil,BRA,Eletrônicos,Fone de Ouvido,Consumidor,568.99,145.45,2,2.7
+2023-05-18,Mexico,MEX,Roupas,Calça,Consumidor,833.3,255.65,13,2.6
+2023-05-19,Portugal,PRT,Móveis,Sofá,Corporativo,6370.64,799.89,16,3.9
+2023-05-19,Argentina,ARG,Beleza,Perfume,Consumidor,34.14,18.66,1,3.7
+2023-05-20,Argentina,ARG,Roupas,Calça,Consumidor,165.68,24.65,6,2.1
+2023-05-20,Brazil,BRA,Móveis,Sofá,Governo,4121.12,455.28,10,4.6
+2023-05-21,Brazil,BRA,Móveis,Sofá,Consumidor,5704.53,1431.87,11,2.6
+2023-05-21,Chile,CHL,Roupas,Calça,Governo,1215.66,284.17,20,2.9
+2023-05-21,Peru,PER,Roupas,Jaqueta,Consumidor,79.38,7.15,3,1.3
+2023-05-21,United States,USA,Beleza,Perfume,Consumidor,823.51,78.76,19,2.1
+2023-05-21,Spain,ESP,Eletrônicos,Celular,Consumidor,4505.81,1722.01,14,3.3
+2023-05-22,Brazil,BRA,Roupas,Calça,Corporativo,854.43,393.85,14,3.3
+2023-05-22,Brazil,BRA,Móveis,Cadeira,Consumidor,4737.72,592.33,10,4.1
+2023-05-23,Argentina,ARG,Alimentos,Chocolate,Consumidor,91.59,26.83,11,2.8
+2023-05-23,Portugal,PRT,Móveis,Cadeira,Consumidor,3961.21,842.92,11,3.6
+2023-05-23,Peru,PER,Roupas,Camiseta,Governo,85.2,41.89,3,1.7
+2023-05-23,Chile,CHL,Roupas,Camiseta,Corporativo,58.87,8.51,1,1.4
+2023-05-23,Spain,ESP,Móveis,Cadeira,Corporativo,2291.77,159.06,8,2.5
+2023-05-24,Argentina,ARG,Beleza,Shampoo,Corporativo,99.92,3.69,4,3.9
+2023-05-24,Chile,CHL,Alimentos,Café,Consumidor,298.42,-25.77,17,4.3
+2023-05-24,Canada,CAN,Beleza,Perfume,Consumidor,197.46,44.23,9,2.2
+2023-05-24,United States,USA,Roupas,Jaqueta,Corporativo,106.61,43.65,3,4.4
+2023-05-24,Spain,ESP,Alimentos,Biscoito,Consumidor,294.67,-25.96,17,3.9
+2023-05-24,Spain,ESP,Beleza,Perfume,Corporativo,400.98,-54.65,12,2.3
+2023-05-24,Chile,CHL,Beleza,Shampoo,Corporativo,291.66,99.28,9,3.6
+2023-05-24,Mexico,MEX,Beleza,Batom,Consumidor,67.25,2.77,3,3.7
+2023-05-25,Peru,PER,Alimentos,Café,Consumidor,121.62,39.39,7,1.2
+2023-05-25,Brazil,BRA,Eletrônicos,Celular,Consumidor,1672.08,181.2,5,3.9
+2023-05-25,Canada,CAN,Roupas,Camiseta,Consumidor,710.98,165.19,17,4.8
+2023-05-25,Brazil,BRA,Eletrônicos,Notebook,Corporativo,4902.92,2471.13,18,1.0
+2023-05-25,Colombia,COL,Alimentos,Chocolate,Corporativo,233.41,20.46,16,2.6
+2023-05-25,Spain,ESP,Eletrônicos,Celular,Consumidor,2567.53,670.64,7,3.4
+2023-05-26,United States,USA,Roupas,Jaqueta,Governo,491.59,166.22,12,2.0
+2023-05-26,Argentina,ARG,Alimentos,Café,Corporativo,46.15,9.16,4,1.2
+2023-05-26,Mexico,MEX,Beleza,Perfume,Consumidor,197.43,20.81,5,3.2
+2023-05-26,Colombia,COL,Alimentos,Biscoito,Consumidor,126.18,-1.36,15,1.1
+2023-05-27,Chile,CHL,Roupas,Calça,Consumidor,248.5,52.95,5,3.9
+2023-05-27,United States,USA,Móveis,Mesa,Consumidor,4548.6,414.89,15,1.2
+2023-05-27,Portugal,PRT,Alimentos,Café,Corporativo,397.71,71.68,17,4.2
+2023-05-27,United States,USA,Roupas,Calça,Consumidor,208.87,33.7,6,3.8
+2023-05-27,United States,USA,Roupas,Camiseta,Corporativo,999.67,124.74,15,2.6
+2023-05-27,Peru,PER,Alimentos,Chocolate,Corporativo,305.94,65.03,17,3.7
+2023-05-27,Canada,CAN,Roupas,Jaqueta,Governo,30.81,14.34,1,4.2
+2023-05-28,Chile,CHL,Roupas,Jaqueta,Corporativo,182.37,59.39,4,3.8
+2023-05-28,Peru,PER,Roupas,Camiseta,Consumidor,1149.66,106.0,17,3.3
+2023-05-28,Colombia,COL,Beleza,Batom,Consumidor,170.96,14.91,10,2.1
+2023-05-28,Peru,PER,Eletrônicos,Fone de Ouvido,Governo,2045.43,-445.52,6,1.2
+2023-05-28,Peru,PER,Móveis,Sofá,Consumidor,856.85,297.85,2,3.0
+2023-05-28,Mexico,MEX,Móveis,Cadeira,Consumidor,2472.62,610.39,13,1.4
+2023-05-29,Brazil,BRA,Beleza,Shampoo,Consumidor,748.72,43.37,17,2.0
+2023-05-29,Colombia,COL,Móveis,Cadeira,Consumidor,985.75,178.86,2,2.7
+2023-05-29,Brazil,BRA,Alimentos,Chocolate,Consumidor,303.33,31.96,13,2.6
+2023-05-29,Peru,PER,Eletrônicos,Fone de Ouvido,Consumidor,913.19,1.67,2,4.8
+2023-05-30,Peru,PER,Móveis,Mesa,Consumidor,4156.46,793.2,13,3.7
+2023-05-30,Argentina,ARG,Eletrônicos,Notebook,Governo,1014.62,270.41,3,3.4
+2023-05-30,Peru,PER,Eletrônicos,Fone de Ouvido,Consumidor,5134.92,798.8,13,3.3
+2023-05-30,United States,USA,Beleza,Batom,Consumidor,546.47,175.58,15,3.4
+2023-05-31,United States,USA,Alimentos,Café,Consumidor,81.88,6.73,8,4.4
+2023-05-31,Portugal,PRT,Alimentos,Chocolate,Consumidor,69.93,35.23,3,4.2
+2023-05-31,United States,USA,Roupas,Jaqueta,Consumidor,417.86,123.07,12,4.0
+2023-05-31,Peru,PER,Alimentos,Café,Consumidor,122.89,40.71,8,4.9
+2023-05-31,Spain,ESP,Roupas,Calça,Governo,1187.28,-76.95,20,3.4
+2023-05-31,Peru,PER,Beleza,Perfume,Governo,218.87,-21.27,13,3.7
+2023-06-01,Spain,ESP,Alimentos,Café,Governo,447.97,-3.71,20,2.3
+2023-06-01,Peru,PER,Beleza,Perfume,Corporativo,673.46,288.51,16,2.8
+2023-06-01,Portugal,PRT,Móveis,Cadeira,Consumidor,5681.69,1146.51,16,3.8
+2023-06-01,Chile,CHL,Alimentos,Chocolate,Corporativo,17.74,4.06,1,4.4
+2023-06-01,Peru,PER,Eletrônicos,Notebook,Governo,9473.32,326.95,20,1.0
+2023-06-01,Brazil,BRA,Beleza,Batom,Governo,327.77,91.48,11,2.9
+2023-06-01,Chile,CHL,Beleza,Shampoo,Consumidor,231.84,1.82,7,1.5
+2023-06-01,Brazil,BRA,Alimentos,Café,Consumidor,29.21,8.26,2,3.0
+2023-06-01,Spain,ESP,Eletrônicos,Fone de Ouvido,Consumidor,514.94,91.33,1,2.6
+2023-06-02,United States,USA,Roupas,Jaqueta,Consumidor,209.77,34.39,8,2.4
+2023-06-02,Peru,PER,Móveis,Cadeira,Consumidor,8661.3,-777.3,18,1.3
+2023-06-02,Colombia,COL,Beleza,Batom,Consumidor,116.66,23.18,6,4.8
+2023-06-02,Colombia,COL,Móveis,Mesa,Corporativo,6670.12,320.79,20,1.1
+2023-06-03,Canada,CAN,Roupas,Camiseta,Consumidor,761.05,135.06,12,3.4
+2023-06-03,Canada,CAN,Eletrônicos,Celular,Consumidor,6175.16,357.45,13,2.5
+2023-06-03,Portugal,PRT,Móveis,Mesa,Corporativo,720.59,177.45,4,4.7
+2023-06-03,Mexico,MEX,Roupas,Jaqueta,Corporativo,731.52,281.8,11,2.6
+2023-06-03,Canada,CAN,Beleza,Perfume,Corporativo,159.34,34.64,8,1.6
+2023-06-03,Spain,ESP,Beleza,Perfume,Corporativo,321.96,67.75,16,2.2
+2023-06-03,Mexico,MEX,Beleza,Batom,Consumidor,25.0,13.26,1,1.9
+2023-06-04,Canada,CAN,Eletrônicos,Celular,Corporativo,744.61,419.94,1,4.7
+2023-06-04,Mexico,MEX,Beleza,Shampoo,Consumidor,306.91,138.35,9,4.7
+2023-06-05,United States,USA,Móveis,Mesa,Consumidor,1569.97,394.67,6,3.2
+2023-06-05,United States,USA,Beleza,Shampoo,Governo,202.91,36.5,6,1.8
+2023-06-06,Brazil,BRA,Móveis,Sofá,Corporativo,8501.88,853.1,16,2.9
+2023-06-06,Mexico,MEX,Alimentos,Chocolate,Corporativo,315.15,43.81,20,1.8
+2023-06-06,United States,USA,Beleza,Shampoo,Consumidor,228.44,56.8,7,2.3
+2023-06-06,United States,USA,Eletrônicos,Notebook,Consumidor,12935.37,4352.33,20,4.2
+2023-06-06,Argentina,ARG,Roupas,Camiseta,Corporativo,413.5,103.61,11,4.4
+2023-06-07,Mexico,MEX,Roupas,Calça,Corporativo,1018.78,226.65,15,2.5
+2023-06-07,Mexico,MEX,Roupas,Jaqueta,Consumidor,1001.31,318.51,14,4.6
+2023-06-07,Brazil,BRA,Roupas,Jaqueta,Governo,460.45,98.4,10,4.4
+2023-06-07,Colombia,COL,Móveis,Cadeira,Consumidor,3619.88,1152.37,17,3.7
+2023-06-07,Peru,PER,Beleza,Perfume,Consumidor,206.37,28.37,10,3.1
+2023-06-08,Spain,ESP,Móveis,Sofá,Governo,250.9,57.27,1,4.0
+2023-06-08,Spain,ESP,Roupas,Camiseta,Consumidor,357.23,131.25,7,3.1
+2023-06-09,Spain,ESP,Beleza,Shampoo,Consumidor,282.5,83.14,8,4.0
+2023-06-09,Peru,PER,Móveis,Cadeira,Corporativo,2976.82,629.75,12,2.7
+2023-06-09,Spain,ESP,Alimentos,Biscoito,Consumidor,152.76,14.57,17,1.4
+2023-06-09,Mexico,MEX,Roupas,Camiseta,Corporativo,161.02,25.18,3,3.4
+2023-06-09,Mexico,MEX,Eletrônicos,Celular,Governo,4831.79,-392.39,8,1.2
+2023-06-09,Colombia,COL,Roupas,Camiseta,Consumidor,95.57,30.97,2,2.1
+2023-06-09,Spain,ESP,Beleza,Batom,Corporativo,282.25,38.58,17,3.5
+2023-06-10,Brazil,BRA,Beleza,Batom,Governo,400.57,56.7,12,4.5
+2023-06-10,Spain,ESP,Alimentos,Chocolate,Consumidor,34.58,5.26,4,4.6
+2023-06-10,Chile,CHL,Eletrônicos,Fone de Ouvido,Governo,5431.64,1462.22,9,2.9
+2023-06-10,Mexico,MEX,Móveis,Cadeira,Governo,3035.99,1283.22,9,2.2
+2023-06-10,Argentina,ARG,Alimentos,Chocolate,Consumidor,35.45,21.57,2,4.8
+2023-06-10,Portugal,PRT,Móveis,Cadeira,Corporativo,5715.23,986.68,18,1.1
+2023-06-10,Colombia,COL,Beleza,Batom,Consumidor,78.21,26.82,3,2.6
+2023-06-10,United States,USA,Eletrônicos,Celular,Consumidor,6736.88,2607.9,15,1.4
+2023-06-11,Mexico,MEX,Beleza,Shampoo,Consumidor,22.61,4.09,1,2.2
+2023-06-11,United States,USA,Eletrônicos,Celular,Corporativo,6408.69,1041.6,20,4.5
+2023-06-11,Peru,PER,Alimentos,Biscoito,Consumidor,180.31,50.71,17,4.4
+2023-06-12,Canada,CAN,Alimentos,Chocolate,Corporativo,160.62,-10.44,10,4.8
+2023-06-12,Brazil,BRA,Roupas,Calça,Governo,134.59,8.67,5,2.2
+2023-06-12,Canada,CAN,Alimentos,Café,Consumidor,267.22,56.96,17,3.2
+2023-06-12,Colombia,COL,Beleza,Perfume,Consumidor,199.29,8.96,12,2.2
+2023-06-13,Canada,CAN,Móveis,Sofá,Corporativo,3149.87,1149.45,8,4.4
+2023-06-13,Brazil,BRA,Alimentos,Café,Consumidor,124.83,35.4,7,4.4
+2023-06-13,Brazil,BRA,Beleza,Batom,Governo,50.75,-2.2,2,1.4
+2023-06-13,Chile,CHL,Beleza,Batom,Consumidor,260.37,87.03,12,4.0
+2023-06-14,Portugal,PRT,Beleza,Perfume,Corporativo,59.11,17.62,3,1.0
+2023-06-14,Argentina,ARG,Eletrônicos,Notebook,Consumidor,1760.28,300.46,3,3.3
+2023-06-14,Brazil,BRA,Beleza,Batom,Consumidor,690.21,61.68,17,4.3
+2023-06-14,Canada,CAN,Eletrônicos,Fone de Ouvido,Governo,6676.93,919.7,14,3.5
+2023-06-14,Colombia,COL,Móveis,Sofá,Consumidor,7898.56,3145.19,16,1.5
+2023-06-14,Peru,PER,Roupas,Calça,Corporativo,371.55,67.4,8,4.3
+2023-06-15,Spain,ESP,Roupas,Jaqueta,Consumidor,722.73,100.58,17,3.3
+2023-06-15,Colombia,COL,Roupas,Calça,Consumidor,853.04,-26.29,12,2.7
+2023-06-16,Peru,PER,Móveis,Mesa,Consumidor,5198.75,519.58,18,3.1
+2023-06-16,Mexico,MEX,Móveis,Cadeira,Corporativo,937.64,121.91,5,1.2
+2023-06-17,Chile,CHL,Móveis,Cadeira,Consumidor,3373.93,1792.23,9,1.4
+2023-06-17,Brazil,BRA,Móveis,Cadeira,Corporativo,2060.49,-59.96,10,2.9
+2023-06-17,Peru,PER,Móveis,Mesa,Consumidor,233.74,18.3,1,3.7
+2023-06-17,Argentina,ARG,Móveis,Cadeira,Consumidor,1068.35,245.9,3,3.6
+2023-06-18,Mexico,MEX,Móveis,Cadeira,Consumidor,4375.08,762.69,12,3.2
+2023-06-19,Argentina,ARG,Roupas,Calça,Governo,381.56,49.01,12,4.5
+2023-06-19,Mexico,MEX,Alimentos,Biscoito,Consumidor,242.48,-13.89,18,3.4
+2023-06-19,Brazil,BRA,Móveis,Cadeira,Corporativo,5087.03,1491.46,16,1.6
+2023-06-19,United States,USA,Eletrônicos,Celular,Consumidor,5222.92,1250.82,19,1.7
+2023-06-19,Mexico,MEX,Móveis,Cadeira,Governo,4465.15,1106.27,20,1.2
+2023-06-19,Portugal,PRT,Beleza,Batom,Consumidor,346.96,95.13,8,4.5
+2023-06-19,Portugal,PRT,Alimentos,Biscoito,Consumidor,107.34,0.04,5,2.5
+2023-06-20,Colombia,COL,Alimentos,Biscoito,Consumidor,260.69,40.62,12,3.0
+2023-06-20,United States,USA,Eletrônicos,Celular,Consumidor,6557.52,-527.81,20,3.3
+2023-06-20,Chile,CHL,Alimentos,Café,Consumidor,88.81,11.37,8,3.5
+2023-06-21,Portugal,PRT,Roupas,Jaqueta,Corporativo,414.63,148.0,8,2.4
+2023-06-21,Canada,CAN,Eletrônicos,Celular,Corporativo,10470.62,109.08,14,1.2
+2023-06-21,Canada,CAN,Roupas,Camiseta,Consumidor,130.98,23.04,3,3.4
+2023-06-21,Portugal,PRT,Roupas,Camiseta,Consumidor,296.24,89.37,6,2.8
+2023-06-21,Canada,CAN,Móveis,Mesa,Consumidor,5656.28,1833.77,19,3.6
+2023-06-21,Mexico,MEX,Móveis,Cadeira,Consumidor,2136.38,-134.01,7,1.3
+2023-06-22,Portugal,PRT,Eletrônicos,Celular,Governo,3869.95,-103.72,7,1.9
+2023-06-22,Colombia,COL,Eletrônicos,Fone de Ouvido,Consumidor,7243.83,2059.36,19,4.4
+2023-06-22,Portugal,PRT,Beleza,Perfume,Corporativo,578.81,74.68,14,4.4
+2023-06-22,Brazil,BRA,Eletrônicos,Celular,Consumidor,1362.5,472.05,4,4.4
+2023-06-22,Peru,PER,Beleza,Perfume,Consumidor,158.23,40.19,7,1.3
+2023-06-22,Spain,ESP,Eletrônicos,Fone de Ouvido,Corporativo,11795.43,1981.02,18,2.4
+2023-06-22,United States,USA,Móveis,Cadeira,Consumidor,3080.78,903.84,13,2.8
+2023-06-22,Portugal,PRT,Beleza,Perfume,Consumidor,68.94,13.75,4,4.1
+2023-06-23,Argentina,ARG,Móveis,Mesa,Consumidor,1477.47,330.77,8,3.7
+2023-06-23,United States,USA,Alimentos,Chocolate,Corporativo,20.62,6.09,1,3.5
+2023-06-24,Argentina,ARG,Móveis,Sofá,Consumidor,3203.31,353.59,12,4.8
+2023-06-24,Brazil,BRA,Beleza,Shampoo,Consumidor,299.21,51.81,13,4.7
+2023-06-25,Mexico,MEX,Roupas,Camiseta,Corporativo,348.71,65.35,7,2.1
+2023-06-25,Canada,CAN,Alimentos,Chocolate,Consumidor,296.0,-22.46,20,1.4
+2023-06-25,Brazil,BRA,Beleza,Shampoo,Consumidor,199.45,65.73,5,1.9
+2023-06-26,Canada,CAN,Alimentos,Biscoito,Governo,169.56,64.6,11,4.4
+2023-06-26,United States,USA,Beleza,Shampoo,Consumidor,263.66,32.45,16,2.8
+2023-06-26,Spain,ESP,Roupas,Camiseta,Governo,1104.76,278.82,19,4.5
+2023-06-26,Portugal,PRT,Roupas,Jaqueta,Consumidor,353.69,134.04,13,3.8
+2023-06-26,Brazil,BRA,Eletrônicos,Celular,Consumidor,1793.78,4.99,4,1.5
+2023-06-26,Chile,CHL,Roupas,Calça,Corporativo,105.41,3.53,2,1.1
+2023-06-27,Spain,ESP,Roupas,Camiseta,Corporativo,780.43,65.57,14,4.6
+2023-06-27,Portugal,PRT,Alimentos,Café,Governo,115.21,26.85,5,2.1
+2023-06-27,Portugal,PRT,Roupas,Camiseta,Consumidor,594.77,112.86,20,3.9
+2023-06-27,Portugal,PRT,Eletrônicos,Notebook,Consumidor,6069.51,1815.17,15,1.2
+2023-06-28,United States,USA,Eletrônicos,Fone de Ouvido,Corporativo,4596.03,-284.75,18,4.8
+2023-06-28,Brazil,BRA,Beleza,Perfume,Governo,72.16,17.68,2,4.9
+2023-06-28,Brazil,BRA,Roupas,Calça,Consumidor,760.85,232.32,12,3.6
+2023-06-28,Argentina,ARG,Móveis,Mesa,Consumidor,1631.25,181.53,8,1.0
+2023-06-28,Spain,ESP,Alimentos,Chocolate,Consumidor,260.38,29.73,16,1.0
+2023-06-29,Chile,CHL,Móveis,Cadeira,Consumidor,5711.68,2392.36,14,1.0
+2023-06-29,Spain,ESP,Roupas,Jaqueta,Corporativo,1105.31,509.28,15,2.5
+2023-06-29,United States,USA,Roupas,Camiseta,Consumidor,350.9,64.11,14,1.2
+2023-06-29,United States,USA,Beleza,Perfume,Consumidor,275.98,21.6,11,2.0
+2023-06-29,Spain,ESP,Eletrônicos,Fone de Ouvido,Consumidor,2236.69,836.66,4,2.0
+2023-06-29,Mexico,MEX,Alimentos,Café,Corporativo,201.13,55.1,11,2.1
+2023-06-30,Canada,CAN,Beleza,Perfume,Consumidor,424.7,19.3,11,2.3
+2023-06-30,Colombia,COL,Alimentos,Chocolate,Consumidor,142.97,40.2,15,3.8
+2023-06-30,Canada,CAN,Roupas,Calça,Consumidor,1159.42,243.93,20,2.9
+2023-07-01,Portugal,PRT,Móveis,Mesa,Governo,1090.01,155.91,4,3.6
+2023-07-01,Argentina,ARG,Alimentos,Chocolate,Consumidor,61.68,22.99,3,4.9
+2023-07-01,Spain,ESP,Eletrônicos,Notebook,Consumidor,10108.88,4941.66,16,1.1
+2023-07-01,Mexico,MEX,Roupas,Camiseta,Consumidor,184.5,32.13,6,1.5
+2023-07-02,Brazil,BRA,Móveis,Mesa,Governo,4472.57,1913.13,9,3.6
+2023-07-02,United States,USA,Móveis,Cadeira,Consumidor,2144.72,298.08,10,1.8
+2023-07-02,Peru,PER,Móveis,Mesa,Consumidor,2219.31,295.9,6,3.3
+2023-07-03,Brazil,BRA,Eletrônicos,Notebook,Corporativo,11555.57,631.42,18,1.0
+2023-07-03,Spain,ESP,Móveis,Cadeira,Consumidor,2850.63,-253.62,14,4.9
+2023-07-03,Canada,CAN,Beleza,Perfume,Consumidor,94.76,6.72,6,2.1
+2023-07-03,Spain,ESP,Móveis,Sofá,Governo,1908.56,312.32,7,2.7
+2023-07-04,Canada,CAN,Roupas,Jaqueta,Corporativo,648.29,235.63,17,2.5
+2023-07-05,Portugal,PRT,Alimentos,Café,Corporativo,162.77,67.58,13,4.4
+2023-07-05,Portugal,PRT,Alimentos,Biscoito,Corporativo,128.56,28.67,6,1.6
+2023-07-05,Argentina,ARG,Móveis,Sofá,Corporativo,3589.38,26.13,8,3.9
+2023-07-06,Peru,PER,Beleza,Shampoo,Consumidor,449.34,97.84,11,1.8
+2023-07-06,Colombia,COL,Roupas,Camiseta,Consumidor,107.07,-3.42,2,2.7
+2023-07-06,Peru,PER,Roupas,Calça,Consumidor,607.31,210.76,18,1.3
+2023-07-06,Portugal,PRT,Roupas,Camiseta,Consumidor,1112.36,550.76,18,2.9
+2023-07-06,Peru,PER,Móveis,Mesa,Consumidor,8109.83,2021.5,17,3.8
+2023-07-06,Colombia,COL,Eletrônicos,Fone de Ouvido,Consumidor,9297.49,1198.4,14,1.8
+2023-07-07,United States,USA,Beleza,Batom,Corporativo,455.22,62.97,14,2.7
+2023-07-07,Canada,CAN,Alimentos,Café,Consumidor,193.12,37.98,12,1.9
+2023-07-07,United States,USA,Beleza,Shampoo,Corporativo,103.72,9.48,5,4.6
+2023-07-07,Chile,CHL,Alimentos,Chocolate,Consumidor,372.86,129.06,18,2.4
+2023-07-07,Canada,CAN,Móveis,Mesa,Corporativo,5922.59,1413.05,11,3.5
+2023-07-08,Canada,CAN,Eletrônicos,Notebook,Consumidor,5760.38,2068.23,9,1.3
+2023-07-08,Chile,CHL,Eletrônicos,Notebook,Consumidor,4166.21,501.17,10,1.0
+2023-07-08,Peru,PER,Móveis,Cadeira,Corporativo,5340.95,928.68,10,2.0
+2023-07-09,Colombia,COL,Beleza,Batom,Consumidor,99.52,18.99,4,1.6
+2023-07-09,Portugal,PRT,Beleza,Batom,Governo,241.48,82.68,12,3.0
+2023-07-09,Canada,CAN,Roupas,Calça,Corporativo,292.58,59.68,7,3.4
+2023-07-09,Argentina,ARG,Eletrônicos,Notebook,Consumidor,275.25,79.65,1,2.9
+2023-07-09,Colombia,COL,Eletrônicos,Fone de Ouvido,Consumidor,5961.26,2532.16,20,4.1
+2023-07-09,Peru,PER,Beleza,Perfume,Consumidor,160.46,71.55,8,3.3
+2023-07-09,Mexico,MEX,Eletrônicos,Fone de Ouvido,Consumidor,7600.96,709.2,14,4.7
+2023-07-10,Argentina,ARG,Alimentos,Chocolate,Consumidor,271.54,90.7,16,1.4
+2023-07-10,Chile,CHL,Beleza,Perfume,Consumidor,16.41,1.75,1,3.7
+2023-07-10,Portugal,PRT,Alimentos,Café,Consumidor,216.24,47.27,11,2.7
+2023-07-11,Brazil,BRA,Alimentos,Chocolate,Consumidor,296.29,46.51,20,2.5
+2023-07-11,Argentina,ARG,Móveis,Cadeira,Consumidor,6703.84,1468.55,13,3.6
+2023-07-11,Canada,CAN,Beleza,Shampoo,Consumidor,206.5,76.69,6,4.9
+2023-07-11,Colombia,COL,Móveis,Mesa,Governo,7512.41,1515.92,19,2.4
+2023-07-11,Mexico,MEX,Móveis,Sofá,Consumidor,6723.94,3073.7,16,4.7
+2023-07-11,Colombia,COL,Móveis,Mesa,Consumidor,4390.22,945.95,19,2.6
+2023-07-11,Mexico,MEX,Alimentos,Biscoito,Consumidor,169.09,72.67,10,4.4
+2023-07-12,Chile,CHL,Roupas,Jaqueta,Consumidor,611.56,149.85,14,1.5
+2023-07-13,Canada,CAN,Móveis,Sofá,Consumidor,2102.04,-169.18,7,2.1
+2023-07-13,Portugal,PRT,Beleza,Shampoo,Corporativo,79.43,9.66,2,3.3
+2023-07-13,Brazil,BRA,Eletrônicos,Celular,Consumidor,10097.23,2877.48,20,1.8
+2023-07-13,United States,USA,Alimentos,Chocolate,Consumidor,259.54,137.89,15,3.5
+2023-07-14,Spain,ESP,Eletrônicos,Celular,Consumidor,3371.87,483.26,8,3.1
+2023-07-14,Portugal,PRT,Alimentos,Biscoito,Corporativo,187.66,58.03,15,4.7
+2023-07-14,Portugal,PRT,Beleza,Batom,Consumidor,291.44,-8.28,18,1.4
+2023-07-14,Colombia,COL,Roupas,Calça,Consumidor,948.17,220.87,20,2.2
+2023-07-15,Chile,CHL,Eletrônicos,Celular,Consumidor,6703.93,2208.31,10,2.7
+2023-07-15,Mexico,MEX,Eletrônicos,Fone de Ouvido,Corporativo,308.78,125.56,1,2.0
+2023-07-15,Brazil,BRA,Móveis,Mesa,Consumidor,4266.68,98.99,9,3.8
+2023-07-16,Peru,PER,Móveis,Mesa,Consumidor,972.17,397.18,3,3.9
+2023-07-16,Chile,CHL,Eletrônicos,Fone de Ouvido,Consumidor,8654.13,2222.17,19,1.2
+2023-07-16,Argentina,ARG,Beleza,Batom,Consumidor,453.11,76.08,19,2.3
+2023-07-17,Mexico,MEX,Móveis,Sofá,Consumidor,4004.24,-253.48,18,1.4
+2023-07-17,Colombia,COL,Eletrônicos,Notebook,Consumidor,1470.67,-65.39,2,4.0
+2023-07-17,Peru,PER,Roupas,Jaqueta,Consumidor,648.9,203.77,10,1.7
+2023-07-17,Peru,PER,Roupas,Camiseta,Corporativo,628.05,299.14,19,4.9
+2023-07-17,Canada,CAN,Móveis,Cadeira,Consumidor,1254.79,157.05,5,3.8
+2023-07-17,Mexico,MEX,Alimentos,Biscoito,Consumidor,180.2,42.61,17,2.4
+2023-07-17,Mexico,MEX,Móveis,Mesa,Corporativo,2427.87,-366.04,11,1.9
+2023-07-18,Chile,CHL,Móveis,Cadeira,Corporativo,2117.8,1009.32,11,2.0
+2023-07-18,Canada,CAN,Móveis,Cadeira,Corporativo,4945.18,1349.33,15,4.7
+2023-07-19,Colombia,COL,Beleza,Batom,Governo,168.27,65.55,8,3.4
+2023-07-19,United States,USA,Alimentos,Café,Corporativo,23.94,5.19,1,2.8
+2023-07-20,Canada,CAN,Alimentos,Chocolate,Consumidor,57.72,17.75,5,1.7
+2023-07-20,Chile,CHL,Alimentos,Café,Governo,209.43,33.43,17,2.6
+2023-07-20,Argentina,ARG,Beleza,Perfume,Consumidor,24.28,3.92,1,4.0
+2023-07-20,Brazil,BRA,Móveis,Mesa,Corporativo,1994.57,131.76,10,4.5
+2023-07-20,Chile,CHL,Beleza,Perfume,Corporativo,738.7,-40.18,17,4.8
+2023-07-20,Argentina,ARG,Eletrônicos,Fone de Ouvido,Corporativo,6626.82,2437.06,14,3.3
+2023-07-21,United States,USA,Móveis,Mesa,Governo,6381.14,1029.84,13,1.6
+2023-07-21,Colombia,COL,Móveis,Mesa,Consumidor,1402.42,77.09,7,2.0
+2023-07-21,United States,USA,Alimentos,Biscoito,Consumidor,405.04,39.17,20,2.6
+2023-07-21,Peru,PER,Roupas,Camiseta,Corporativo,918.69,35.2,14,3.3
+2023-07-21,Mexico,MEX,Móveis,Mesa,Consumidor,5536.77,1214.9,13,4.0
+2023-07-21,Chile,CHL,Alimentos,Biscoito,Consumidor,76.73,18.93,9,4.4
+2023-07-22,Portugal,PRT,Móveis,Sofá,Consumidor,1619.79,229.56,6,4.8
+2023-07-22,Brazil,BRA,Móveis,Mesa,Consumidor,7272.82,2598.38,14,4.3
+2023-07-22,Colombia,COL,Roupas,Calça,Consumidor,311.98,12.18,11,2.9
+2023-07-23,United States,USA,Beleza,Perfume,Governo,17.17,2.84,1,5.0
+2023-07-24,Peru,PER,Alimentos,Biscoito,Consumidor,29.61,6.4,3,2.3
+2023-07-24,Mexico,MEX,Beleza,Batom,Governo,317.16,-5.73,17,2.6
+2023-07-25,Chile,CHL,Alimentos,Chocolate,Consumidor,124.68,53.84,7,3.3
+2023-07-25,Brazil,BRA,Roupas,Jaqueta,Consumidor,230.4,66.65,7,4.3
+2023-07-26,Argentina,ARG,Alimentos,Biscoito,Consumidor,10.4,3.58,1,4.0
+2023-07-26,United States,USA,Beleza,Perfume,Corporativo,66.1,20.69,3,1.3
+2023-07-26,Argentina,ARG,Beleza,Batom,Consumidor,616.08,63.39,14,4.9
+2023-07-27,Mexico,MEX,Beleza,Batom,Consumidor,56.23,28.09,2,3.2
+2023-07-27,Mexico,MEX,Beleza,Perfume,Consumidor,510.02,61.59,18,2.8
+2023-07-27,Mexico,MEX,Roupas,Camiseta,Consumidor,205.62,84.18,3,2.8
+2023-07-28,Portugal,PRT,Alimentos,Biscoito,Consumidor,87.79,-19.25,8,3.8
+2023-07-28,Peru,PER,Beleza,Perfume,Corporativo,261.54,63.32,9,1.3
+2023-07-29,Canada,CAN,Alimentos,Chocolate,Consumidor,321.89,102.42,19,2.3
+2023-07-29,Peru,PER,Roupas,Jaqueta,Governo,110.34,-13.71,4,3.3
+2023-07-29,Peru,PER,Eletrônicos,Celular,Corporativo,6718.09,1325.73,15,2.0
+2023-07-30,Portugal,PRT,Eletrônicos,Notebook,Governo,602.05,50.06,1,2.6
+2023-07-31,Mexico,MEX,Móveis,Cadeira,Corporativo,3977.12,576.27,12,1.0
+2023-07-31,Chile,CHL,Beleza,Shampoo,Corporativo,185.81,39.59,6,2.1
+2023-07-31,Peru,PER,Alimentos,Biscoito,Consumidor,168.47,2.11,11,1.8
+2023-08-01,Peru,PER,Móveis,Sofá,Corporativo,3514.67,186.35,8,4.5
+2023-08-01,Canada,CAN,Alimentos,Chocolate,Consumidor,394.69,66.65,20,1.2
+2023-08-01,Peru,PER,Eletrônicos,Notebook,Corporativo,1879.02,514.45,4,4.1
+2023-08-02,Canada,CAN,Beleza,Shampoo,Consumidor,317.99,89.8,14,1.1
+2023-08-02,Chile,CHL,Eletrônicos,Notebook,Corporativo,11076.14,2307.03,17,3.5
+2023-08-02,Portugal,PRT,Beleza,Perfume,Consumidor,34.18,12.0,1,4.9
+2023-08-02,Peru,PER,Móveis,Mesa,Consumidor,8523.27,3817.68,16,2.9
+2023-08-03,Brazil,BRA,Eletrônicos,Notebook,Consumidor,10379.4,1888.03,19,4.1
+2023-08-03,Portugal,PRT,Beleza,Batom,Consumidor,398.89,28.02,11,3.2
+2023-08-03,Peru,PER,Móveis,Sofá,Consumidor,5595.44,400.25,15,4.2
+2023-08-03,Spain,ESP,Beleza,Perfume,Consumidor,443.16,224.39,18,2.8
+2023-08-03,Peru,PER,Móveis,Mesa,Consumidor,4052.56,559.85,9,1.4
+2023-08-03,United States,USA,Beleza,Batom,Consumidor,185.4,-24.33,12,4.4
+2023-08-03,Chile,CHL,Roupas,Calça,Consumidor,34.06,1.15,1,3.0
+2023-08-03,Peru,PER,Alimentos,Chocolate,Consumidor,309.16,64.67,15,1.5
+2023-08-03,Canada,CAN,Alimentos,Chocolate,Corporativo,25.81,13.01,3,3.7
+2023-08-03,Colombia,COL,Alimentos,Café,Corporativo,131.62,-6.53,12,4.7
+2023-08-04,Peru,PER,Móveis,Mesa,Corporativo,1963.74,-93.16,9,4.3
+2023-08-04,Spain,ESP,Beleza,Shampoo,Consumidor,458.02,170.88,17,3.0
+2023-08-04,United States,USA,Alimentos,Café,Consumidor,63.43,9.7,6,3.9
+2023-08-04,Colombia,COL,Beleza,Batom,Consumidor,154.46,62.45,10,4.4
+2023-08-05,Chile,CHL,Alimentos,Biscoito,Consumidor,272.81,18.7,18,3.1
+2023-08-05,Mexico,MEX,Alimentos,Chocolate,Consumidor,188.66,48.33,9,4.6
+2023-08-05,Brazil,BRA,Móveis,Cadeira,Consumidor,3291.46,204.25,17,4.6
+2023-08-05,Peru,PER,Alimentos,Café,Governo,125.37,22.87,6,3.8
+2023-08-05,Spain,ESP,Móveis,Cadeira,Consumidor,3182.25,113.19,7,1.6
+2023-08-05,United States,USA,Alimentos,Chocolate,Consumidor,123.62,20.95,7,1.1
+2023-08-05,Argentina,ARG,Móveis,Mesa,Consumidor,5000.77,456.39,14,4.8
+2023-08-06,Canada,CAN,Alimentos,Chocolate,Consumidor,319.92,-13.04,15,3.2
+2023-08-06,Argentina,ARG,Alimentos,Biscoito,Corporativo,317.84,27.24,17,4.7
+2023-08-06,Argentina,ARG,Eletrônicos,Celular,Corporativo,6474.53,1143.58,20,2.4
+2023-08-06,Chile,CHL,Eletrônicos,Fone de Ouvido,Consumidor,1541.35,187.39,4,2.6
+2023-08-06,Chile,CHL,Móveis,Cadeira,Consumidor,5323.01,2343.89,19,4.1
+2023-08-06,United States,USA,Beleza,Batom,Corporativo,18.28,8.59,1,4.7
+2023-08-07,Peru,PER,Roupas,Calça,Consumidor,1222.98,251.83,19,2.7
+2023-08-08,Brazil,BRA,Eletrônicos,Notebook,Consumidor,5777.93,867.77,14,2.4
+2023-08-08,Portugal,PRT,Eletrônicos,Fone de Ouvido,Consumidor,7729.43,1465.45,13,1.7
+2023-08-08,United States,USA,Móveis,Sofá,Governo,1887.71,779.73,6,4.8
+2023-08-08,Brazil,BRA,Roupas,Jaqueta,Consumidor,465.98,86.32,9,4.3
+2023-08-08,Mexico,MEX,Roupas,Camiseta,Consumidor,640.08,61.84,12,4.7
+2023-08-08,Portugal,PRT,Eletrônicos,Notebook,Consumidor,524.81,134.22,1,4.8
+2023-08-08,Portugal,PRT,Roupas,Jaqueta,Consumidor,830.02,253.35,15,1.8
+2023-08-09,Chile,CHL,Móveis,Sofá,Consumidor,1617.72,198.01,6,3.4
+2023-08-10,Argentina,ARG,Beleza,Shampoo,Corporativo,561.31,15.66,16,1.4
+2023-08-10,Portugal,PRT,Alimentos,Chocolate,Corporativo,70.59,-3.81,4,1.4
+2023-08-10,Portugal,PRT,Beleza,Shampoo,Consumidor,710.71,234.15,16,3.1
+2023-08-10,Peru,PER,Eletrônicos,Notebook,Corporativo,9288.78,2178.3,18,2.6
+2023-08-10,Spain,ESP,Eletrônicos,Fone de Ouvido,Governo,5175.42,995.35,9,1.9
+2023-08-11,Mexico,MEX,Roupas,Calça,Consumidor,309.64,29.45,10,1.8
+2023-08-11,Portugal,PRT,Roupas,Jaqueta,Corporativo,1133.16,219.51,19,4.6
+2023-08-11,Canada,CAN,Roupas,Calça,Consumidor,1009.9,415.16,17,2.2
+2023-08-11,Argentina,ARG,Roupas,Camiseta,Consumidor,836.37,49.7,14,3.1
+2023-08-11,Argentina,ARG,Roupas,Jaqueta,Consumidor,217.09,47.41,7,2.8
+2023-08-11,Portugal,PRT,Eletrônicos,Fone de Ouvido,Consumidor,6110.79,1175.3,13,2.1
+2023-08-11,Spain,ESP,Alimentos,Biscoito,Consumidor,168.58,11.04,12,3.9
+2023-08-12,Portugal,PRT,Eletrônicos,Celular,Consumidor,7469.46,3324.81,19,4.3
+2023-08-12,Spain,ESP,Roupas,Jaqueta,Corporativo,1167.39,123.72,16,1.9
+2023-08-12,Mexico,MEX,Eletrônicos,Fone de Ouvido,Corporativo,1943.66,406.54,7,3.9
+2023-08-12,Portugal,PRT,Roupas,Calça,Consumidor,230.74,80.47,6,4.8
+2023-08-12,Argentina,ARG,Alimentos,Biscoito,Governo,193.05,54.68,19,2.2
+2023-08-12,Chile,CHL,Eletrônicos,Notebook,Corporativo,5085.15,1445.89,11,2.2
+2023-08-13,Chile,CHL,Eletrônicos,Fone de Ouvido,Consumidor,7847.53,2533.64,16,3.0
+2023-08-13,Chile,CHL,Beleza,Shampoo,Consumidor,83.14,15.93,3,1.5
+2023-08-13,Chile,CHL,Móveis,Cadeira,Corporativo,3513.46,1227.23,18,3.6
+2023-08-13,Mexico,MEX,Eletrônicos,Fone de Ouvido,Consumidor,7496.55,873.99,18,1.1
+2023-08-13,Peru,PER,Roupas,Jaqueta,Corporativo,520.31,38.53,10,3.4
+2023-08-14,Peru,PER,Roupas,Camiseta,Consumidor,519.15,-19.31,9,1.7
+2023-08-14,Argentina,ARG,Beleza,Batom,Consumidor,257.55,64.74,11,4.4
+2023-08-14,Canada,CAN,Roupas,Camiseta,Consumidor,232.47,13.21,6,4.7
+2023-08-14,United States,USA,Alimentos,Café,Consumidor,283.11,27.14,13,1.5
+2023-08-15,Canada,CAN,Móveis,Mesa,Consumidor,6234.52,1164.23,13,3.2
+2023-08-15,Portugal,PRT,Alimentos,Chocolate,Consumidor,83.36,16.12,6,4.0
+2023-08-15,Portugal,PRT,Alimentos,Biscoito,Consumidor,141.99,21.06,9,3.3
+2023-08-15,Colombia,COL,Eletrônicos,Fone de Ouvido,Corporativo,2325.79,242.47,5,3.4
+2023-08-15,Peru,PER,Roupas,Calça,Consumidor,222.83,23.94,3,3.5
+2023-08-15,United States,USA,Móveis,Mesa,Consumidor,5730.8,2198.0,11,2.6
+2023-08-15,Spain,ESP,Alimentos,Biscoito,Consumidor,169.58,73.0,9,1.6
+2023-08-15,Canada,CAN,Móveis,Sofá,Consumidor,1664.85,394.97,4,4.5
+2023-08-16,Chile,CHL,Móveis,Cadeira,Governo,6067.42,967.28,19,2.0
+2023-08-16,Mexico,MEX,Eletrônicos,Notebook,Consumidor,444.43,-4.55,1,4.5
+2023-08-16,Argentina,ARG,Roupas,Calça,Consumidor,959.25,429.91,19,1.7
+2023-08-17,Colombia,COL,Alimentos,Chocolate,Consumidor,51.7,10.0,6,2.5
+2023-08-17,Portugal,PRT,Móveis,Mesa,Corporativo,3366.3,251.42,9,4.2
+2023-08-17,United States,USA,Roupas,Jaqueta,Consumidor,167.93,42.35,5,1.9
+2023-08-17,Mexico,MEX,Móveis,Mesa,Corporativo,187.97,-7.97,1,3.4
+2023-08-17,Argentina,ARG,Eletrônicos,Notebook,Corporativo,10565.89,-2983.9,16,2.4
+2023-08-17,Chile,CHL,Eletrônicos,Fone de Ouvido,Consumidor,474.2,94.99,1,4.8
+2023-08-17,Colombia,COL,Roupas,Jaqueta,Governo,1042.84,271.76,20,2.3
+2023-08-17,Spain,ESP,Beleza,Batom,Consumidor,474.91,187.66,18,4.7
+2023-08-18,Colombia,COL,Roupas,Jaqueta,Consumidor,212.33,39.86,8,5.0
+2023-08-18,Spain,ESP,Roupas,Calça,Corporativo,494.67,104.13,9,4.3
+2023-08-19,Peru,PER,Beleza,Shampoo,Corporativo,864.38,108.09,20,3.6
+2023-08-19,Spain,ESP,Alimentos,Biscoito,Corporativo,78.59,17.17,5,2.5
+2023-08-19,Portugal,PRT,Beleza,Shampoo,Corporativo,450.41,96.62,13,1.9
+2023-08-19,Mexico,MEX,Móveis,Sofá,Corporativo,8018.7,2318.91,20,3.5
+2023-08-19,Mexico,MEX,Beleza,Batom,Consumidor,382.22,77.57,18,4.2
+2023-08-19,Mexico,MEX,Móveis,Cadeira,Consumidor,3984.16,589.7,9,2.2
+2023-08-20,Portugal,PRT,Roupas,Calça,Corporativo,69.87,11.3,1,2.8
+2023-08-21,Peru,PER,Móveis,Sofá,Corporativo,907.53,35.67,2,3.8
+2023-08-21,Portugal,PRT,Alimentos,Chocolate,Consumidor,131.51,54.29,7,1.9
+2023-08-21,Brazil,BRA,Beleza,Shampoo,Consumidor,90.72,0.94,4,2.5
+2023-08-21,Brazil,BRA,Roupas,Camiseta,Consumidor,33.56,2.28,1,1.1
+2023-08-21,Argentina,ARG,Roupas,Camiseta,Consumidor,72.76,-1.82,2,3.5
+2023-08-21,Colombia,COL,Roupas,Calça,Consumidor,582.22,-61.25,19,3.0
+2023-08-21,Mexico,MEX,Beleza,Batom,Consumidor,197.56,87.91,7,3.7
+2023-08-21,Canada,CAN,Eletrônicos,Celular,Consumidor,7630.59,3417.84,19,2.3
+2023-08-22,Argentina,ARG,Roupas,Jaqueta,Consumidor,441.06,97.4,9,2.9
+2023-08-22,Spain,ESP,Móveis,Mesa,Consumidor,777.74,462.44,3,4.3
+2023-08-23,Argentina,ARG,Roupas,Jaqueta,Corporativo,294.01,47.83,9,2.7
+2023-08-23,Chile,CHL,Eletrônicos,Notebook,Consumidor,2473.31,-33.63,6,4.9
+2023-08-23,Mexico,MEX,Eletrônicos,Celular,Governo,2128.56,180.27,6,1.6
+2023-08-24,United States,USA,Eletrônicos,Celular,Consumidor,1689.79,579.15,6,1.5
+2023-08-24,Portugal,PRT,Eletrônicos,Fone de Ouvido,Corporativo,5875.96,-98.33,17,2.5
+2023-08-24,Brazil,BRA,Eletrônicos,Fone de Ouvido,Corporativo,716.99,146.7,1,4.0
+2023-08-24,Peru,PER,Roupas,Calça,Consumidor,248.71,45.21,5,3.4
+2023-08-25,Canada,CAN,Alimentos,Chocolate,Corporativo,22.2,1.9,1,1.5
+2023-08-25,Peru,PER,Alimentos,Café,Corporativo,30.04,3.46,3,4.6
+2023-08-25,Argentina,ARG,Móveis,Cadeira,Consumidor,2895.02,394.71,12,3.7
+2023-08-25,Portugal,PRT,Roupas,Calça,Consumidor,340.33,31.8,9,3.4
+2023-08-25,Mexico,MEX,Eletrônicos,Notebook,Corporativo,3861.28,622.66,7,4.8
+2023-08-25,Chile,CHL,Roupas,Jaqueta,Corporativo,541.29,47.03,9,2.8
+2023-08-26,Portugal,PRT,Roupas,Jaqueta,Consumidor,117.87,33.83,2,1.3
+2023-08-26,Spain,ESP,Alimentos,Café,Consumidor,262.03,-2.17,15,4.2
+2023-08-26,Colombia,COL,Roupas,Camiseta,Consumidor,599.97,184.09,9,2.3
+2023-08-27,United States,USA,Eletrônicos,Notebook,Consumidor,10134.34,-1021.91,20,4.3
+2023-08-27,Argentina,ARG,Roupas,Camiseta,Consumidor,950.1,106.75,20,1.0
+2023-08-27,Brazil,BRA,Eletrônicos,Notebook,Governo,4993.79,1526.08,13,4.3
+2023-08-27,Chile,CHL,Alimentos,Café,Corporativo,26.91,6.04,2,3.9
+2023-08-27,Peru,PER,Eletrônicos,Notebook,Corporativo,10207.97,2700.88,15,2.9
+2023-08-27,Colombia,COL,Móveis,Sofá,Consumidor,9382.56,1370.56,20,1.6
+2023-08-27,Mexico,MEX,Beleza,Batom,Corporativo,466.0,103.68,14,3.4
+2023-08-28,Brazil,BRA,Eletrônicos,Notebook,Consumidor,693.91,4.98,1,2.4
+2023-08-28,Colombia,COL,Beleza,Perfume,Consumidor,304.07,86.19,15,1.5
+2023-08-28,United States,USA,Beleza,Batom,Consumidor,464.78,-51.19,11,4.5
+2023-08-29,United States,USA,Alimentos,Café,Consumidor,301.68,33.48,20,3.0
+2023-08-30,Spain,ESP,Roupas,Jaqueta,Consumidor,1230.31,143.64,17,1.9
+2023-08-30,United States,USA,Eletrônicos,Notebook,Governo,6326.75,986.07,9,4.1
+2023-08-30,Peru,PER,Eletrônicos,Celular,Consumidor,2331.78,1051.84,6,2.4
+2023-08-30,Peru,PER,Alimentos,Biscoito,Governo,221.9,54.66,14,3.7
+2023-08-31,Brazil,BRA,Móveis,Sofá,Consumidor,411.06,52.45,2,2.9
+2023-08-31,Colombia,COL,Alimentos,Biscoito,Consumidor,135.25,39.36,15,3.8
+2023-08-31,Portugal,PRT,Móveis,Sofá,Corporativo,8826.17,847.04,17,4.1
+2023-09-01,United States,USA,Beleza,Batom,Corporativo,471.78,147.8,15,4.4
+2023-09-01,Argentina,ARG,Móveis,Mesa,Consumidor,2179.94,346.83,9,1.0
+2023-09-01,Brazil,BRA,Alimentos,Biscoito,Consumidor,238.73,60.32,14,2.4
+2023-09-03,Brazil,BRA,Roupas,Jaqueta,Consumidor,301.03,49.64,8,4.1
+2023-09-03,Brazil,BRA,Móveis,Mesa,Consumidor,5120.07,338.58,15,2.5
+2023-09-03,Canada,CAN,Eletrônicos,Celular,Consumidor,10223.02,398.5,16,1.2
+2023-09-03,Canada,CAN,Beleza,Batom,Governo,93.68,36.66,4,4.1
+2023-09-04,Peru,PER,Alimentos,Chocolate,Consumidor,135.43,37.9,7,3.8
+2023-09-04,Spain,ESP,Roupas,Jaqueta,Corporativo,489.36,98.17,14,3.1
+2023-09-04,Chile,CHL,Eletrônicos,Celular,Corporativo,13182.21,161.61,18,2.3
+2023-09-04,Canada,CAN,Roupas,Camiseta,Consumidor,55.63,10.94,2,4.7
+2023-09-04,Chile,CHL,Alimentos,Biscoito,Corporativo,245.53,40.15,11,4.3
+2023-09-04,Spain,ESP,Móveis,Sofá,Consumidor,3272.14,1427.45,10,4.4
+2023-09-04,Chile,CHL,Alimentos,Café,Consumidor,283.55,58.31,15,3.4
+2023-09-04,Spain,ESP,Eletrônicos,Celular,Consumidor,5320.7,856.82,19,1.1
+2023-09-06,Mexico,MEX,Beleza,Shampoo,Corporativo,44.8,8.71,2,1.7
+2023-09-06,Canada,CAN,Roupas,Calça,Consumidor,436.24,104.94,6,2.8
+2023-09-06,Spain,ESP,Alimentos,Chocolate,Consumidor,115.06,24.89,11,1.8
+2023-09-06,Chile,CHL,Beleza,Shampoo,Consumidor,475.9,187.78,13,4.4
+2023-09-06,Spain,ESP,Móveis,Mesa,Consumidor,2439.2,282.66,5,3.2
+2023-09-07,Spain,ESP,Roupas,Jaqueta,Consumidor,749.2,175.53,17,1.7
+2023-09-07,Spain,ESP,Móveis,Mesa,Corporativo,3682.54,158.08,13,2.8
+2023-09-07,Canada,CAN,Roupas,Camiseta,Consumidor,458.14,-41.78,7,1.8
+2023-09-07,United States,USA,Alimentos,Chocolate,Consumidor,111.98,12.37,13,1.1
+2023-09-07,Colombia,COL,Móveis,Sofá,Consumidor,1480.65,275.33,3,2.5
+2023-09-08,Peru,PER,Beleza,Batom,Corporativo,407.08,125.6,19,3.2
+2023-09-08,Canada,CAN,Roupas,Jaqueta,Consumidor,572.02,54.24,12,1.2
+2023-09-08,Colombia,COL,Beleza,Batom,Consumidor,161.85,37.43,4,1.9
+2023-09-08,Spain,ESP,Alimentos,Chocolate,Consumidor,106.97,3.99,12,4.7
+2023-09-09,Brazil,BRA,Beleza,Shampoo,Corporativo,441.98,126.33,14,3.3
+2023-09-09,Brazil,BRA,Móveis,Sofá,Consumidor,5028.29,1979.16,10,2.9
+2023-09-09,Spain,ESP,Eletrônicos,Fone de Ouvido,Consumidor,5273.19,1923.29,18,4.8
+2023-09-09,Canada,CAN,Móveis,Mesa,Consumidor,625.59,193.93,3,1.4
+2023-09-09,Spain,ESP,Beleza,Shampoo,Consumidor,57.88,7.92,2,2.4
+2023-09-09,Peru,PER,Eletrônicos,Fone de Ouvido,Consumidor,4247.76,645.18,16,4.7
+2023-09-09,Mexico,MEX,Beleza,Perfume,Governo,254.94,19.59,14,2.5
+2023-09-10,Spain,ESP,Alimentos,Café,Corporativo,122.3,38.81,8,3.7
+2023-09-10,Peru,PER,Beleza,Batom,Consumidor,202.56,39.99,8,4.1
+2023-09-10,Canada,CAN,Móveis,Sofá,Consumidor,3231.49,207.23,10,4.5
+2023-09-10,Peru,PER,Móveis,Mesa,Corporativo,5112.34,729.34,20,3.4
+2023-09-10,United States,USA,Móveis,Mesa,Governo,2461.96,1192.9,8,3.3
+2023-09-10,Portugal,PRT,Beleza,Batom,Consumidor,147.03,66.75,8,4.5
+2023-09-11,Peru,PER,Alimentos,Biscoito,Consumidor,407.18,135.13,18,1.2
+2023-09-11,Argentina,ARG,Móveis,Mesa,Consumidor,3503.02,309.74,8,4.0
+2023-09-11,Canada,CAN,Eletrônicos,Notebook,Corporativo,5153.1,-330.0,8,1.6
+2023-09-11,Argentina,ARG,Móveis,Mesa,Consumidor,1826.5,511.87,8,3.3
+2023-09-11,Chile,CHL,Eletrônicos,Celular,Consumidor,521.99,-106.95,2,4.3
+2023-09-12,Canada,CAN,Eletrônicos,Notebook,Governo,3102.24,355.09,11,3.4
+2023-09-12,Canada,CAN,Eletrônicos,Fone de Ouvido,Corporativo,5184.21,394.67,13,2.1
+2023-09-12,Chile,CHL,Beleza,Perfume,Consumidor,386.07,59.64,12,2.2
+2023-09-12,Peru,PER,Móveis,Cadeira,Consumidor,2104.83,521.18,5,4.1
+2023-09-13,Canada,CAN,Eletrônicos,Notebook,Governo,8166.02,999.48,20,3.2
+2023-09-13,United States,USA,Roupas,Jaqueta,Governo,87.78,-1.96,3,3.0
+2023-09-13,Mexico,MEX,Beleza,Batom,Consumidor,65.12,19.73,2,4.5
+2023-09-14,Peru,PER,Roupas,Jaqueta,Consumidor,709.29,334.46,20,1.4
+2023-09-14,Brazil,BRA,Móveis,Sofá,Corporativo,2674.62,130.6,7,3.1
+2023-09-14,Canada,CAN,Móveis,Sofá,Consumidor,2971.74,867.81,14,4.5
+2023-09-14,Chile,CHL,Beleza,Perfume,Corporativo,385.74,73.8,10,3.9
+2023-09-14,Portugal,PRT,Eletrônicos,Notebook,Corporativo,540.59,0.14,2,3.6
+2023-09-14,United States,USA,Móveis,Sofá,Consumidor,2675.66,527.01,11,1.4
+2023-09-15,Chile,CHL,Alimentos,Café,Consumidor,83.34,6.76,5,2.9
+2023-09-15,Argentina,ARG,Beleza,Perfume,Consumidor,137.66,7.34,8,2.5
+2023-09-16,Canada,CAN,Roupas,Camiseta,Consumidor,122.89,21.36,2,1.0
+2023-09-16,Mexico,MEX,Alimentos,Biscoito,Corporativo,244.65,73.65,19,3.0
+2023-09-16,Portugal,PRT,Beleza,Perfume,Consumidor,173.88,33.67,10,1.5
+2023-09-16,Spain,ESP,Alimentos,Chocolate,Corporativo,190.07,70.03,8,1.2
+2023-09-16,Colombia,COL,Eletrônicos,Celular,Consumidor,910.52,289.74,2,2.1
+2023-09-16,Peru,PER,Roupas,Jaqueta,Consumidor,922.89,154.16,15,2.0
+2023-09-17,Canada,CAN,Móveis,Cadeira,Corporativo,1090.54,212.87,3,2.6
+2023-09-17,Canada,CAN,Roupas,Camiseta,Governo,773.95,181.57,15,4.4
+2023-09-18,Portugal,PRT,Roupas,Camiseta,Consumidor,954.17,36.27,17,1.3
+2023-09-18,Canada,CAN,Roupas,Jaqueta,Corporativo,293.82,93.32,9,3.7
+2023-09-18,United States,USA,Eletrônicos,Celular,Corporativo,4561.58,953.31,11,3.9
+2023-09-18,Colombia,COL,Roupas,Jaqueta,Consumidor,1373.25,-2.64,20,3.5
+2023-09-19,United States,USA,Alimentos,Biscoito,Consumidor,476.87,94.59,20,3.3
+2023-09-19,Peru,PER,Móveis,Cadeira,Corporativo,1671.87,53.2,6,4.1
+2023-09-20,Brazil,BRA,Móveis,Sofá,Consumidor,3702.78,97.11,9,4.6
+2023-09-20,Chile,CHL,Beleza,Shampoo,Consumidor,172.61,14.54,11,3.6
+2023-09-21,Colombia,COL,Eletrônicos,Fone de Ouvido,Consumidor,2885.06,555.2,5,4.6
+2023-09-21,Spain,ESP,Eletrônicos,Notebook,Consumidor,7251.9,2567.59,10,1.3
+2023-09-21,Mexico,MEX,Eletrônicos,Fone de Ouvido,Governo,8075.62,2492.34,18,1.6
+2023-09-21,Canada,CAN,Beleza,Batom,Consumidor,36.8,16.74,2,1.6
+2023-09-21,Spain,ESP,Eletrônicos,Notebook,Governo,7127.71,1650.33,17,4.0
+2023-09-21,Chile,CHL,Eletrônicos,Celular,Governo,6636.16,-87.73,19,1.2
+2023-09-21,Colombia,COL,Eletrônicos,Fone de Ouvido,Governo,6642.1,398.99,13,4.4
+2023-09-21,Peru,PER,Roupas,Calça,Consumidor,520.56,216.5,19,2.2
+2023-09-21,Peru,PER,Eletrônicos,Celular,Corporativo,3294.96,913.11,12,2.2
+2023-09-22,Argentina,ARG,Alimentos,Biscoito,Corporativo,25.68,7.22,2,2.5
+2023-09-22,Spain,ESP,Alimentos,Chocolate,Consumidor,56.58,5.49,5,1.5
+2023-09-22,Peru,PER,Alimentos,Chocolate,Corporativo,73.87,5.23,5,2.5
+2023-09-23,Argentina,ARG,Eletrônicos,Fone de Ouvido,Corporativo,7502.8,-442.18,14,4.3
+2023-09-23,Colombia,COL,Alimentos,Café,Consumidor,131.51,32.36,7,4.5
+2023-09-24,Peru,PER,Roupas,Camiseta,Consumidor,206.34,-0.89,8,2.3
+2023-09-24,United States,USA,Móveis,Sofá,Consumidor,2683.6,858.72,8,3.6
+2023-09-24,Spain,ESP,Móveis,Cadeira,Consumidor,3113.45,908.41,11,3.0
+2023-09-24,Argentina,ARG,Móveis,Mesa,Consumidor,3260.23,774.61,10,3.0
+2023-09-24,Mexico,MEX,Eletrônicos,Notebook,Consumidor,3730.23,667.55,5,1.3
+2023-09-25,Portugal,PRT,Eletrônicos,Notebook,Consumidor,5681.92,826.24,14,4.2
+2023-09-25,Spain,ESP,Eletrônicos,Celular,Corporativo,3667.12,1366.27,6,4.5
+2023-09-25,Chile,CHL,Alimentos,Café,Consumidor,388.34,-33.79,18,3.3
+2023-09-25,Canada,CAN,Eletrônicos,Fone de Ouvido,Consumidor,3894.36,385.2,10,3.4
+2023-09-25,Canada,CAN,Roupas,Camiseta,Corporativo,509.0,99.33,16,1.4
+2023-09-25,Mexico,MEX,Alimentos,Biscoito,Consumidor,101.85,27.06,11,1.8
+2023-09-25,Mexico,MEX,Eletrônicos,Notebook,Corporativo,6254.32,3109.83,12,3.7
+2023-09-26,Colombia,COL,Beleza,Perfume,Consumidor,321.95,48.05,13,4.1
+2023-09-26,Chile,CHL,Eletrônicos,Celular,Consumidor,2106.05,559.18,3,4.5
+2023-09-27,Argentina,ARG,Beleza,Batom,Consumidor,150.98,-6.32,5,1.6
+2023-09-27,Peru,PER,Eletrônicos,Fone de Ouvido,Corporativo,5851.64,-152.62,9,3.5
+2023-09-27,Spain,ESP,Roupas,Camiseta,Consumidor,1353.4,140.61,20,2.5
+2023-09-28,United States,USA,Roupas,Camiseta,Corporativo,956.32,12.02,20,2.6
+2023-09-28,Canada,CAN,Beleza,Batom,Consumidor,317.29,37.69,9,3.7
+2023-09-28,Mexico,MEX,Alimentos,Chocolate,Corporativo,292.02,70.49,13,3.2
+2023-09-28,Peru,PER,Alimentos,Biscoito,Corporativo,288.42,36.7,18,3.2
+2023-09-29,Spain,ESP,Roupas,Camiseta,Consumidor,244.35,82.73,7,4.6
+2023-09-29,Brazil,BRA,Móveis,Sofá,Corporativo,2080.46,687.18,7,3.4
+2023-09-30,Brazil,BRA,Eletrônicos,Fone de Ouvido,Consumidor,7086.52,1982.45,20,4.8
+2023-09-30,Chile,CHL,Eletrônicos,Fone de Ouvido,Consumidor,5814.85,2450.14,9,3.6
+2023-09-30,Colombia,COL,Móveis,Mesa,Consumidor,8773.95,2655.94,20,3.6
+2023-09-30,Argentina,ARG,Móveis,Sofá,Consumidor,300.6,131.14,1,3.1
+2023-09-30,Peru,PER,Roupas,Camiseta,Governo,652.77,306.71,9,4.8
+2023-09-30,Canada,CAN,Móveis,Mesa,Corporativo,2640.65,300.54,11,1.9
+2023-10-01,Spain,ESP,Beleza,Batom,Consumidor,544.08,235.83,13,1.8
+2023-10-01,Mexico,MEX,Móveis,Sofá,Consumidor,6641.39,1339.17,17,2.6
+2023-10-02,Argentina,ARG,Eletrônicos,Fone de Ouvido,Corporativo,9713.23,68.84,16,4.7
+2023-10-02,Peru,PER,Roupas,Camiseta,Consumidor,60.97,17.11,1,1.6
+2023-10-02,Canada,CAN,Móveis,Cadeira,Corporativo,3609.54,171.84,16,2.1
+2023-10-02,Spain,ESP,Beleza,Perfume,Consumidor,142.56,73.53,7,4.7
+2023-10-04,Colombia,COL,Eletrônicos,Notebook,Consumidor,4871.27,1320.63,19,1.3
+2023-10-04,Argentina,ARG,Móveis,Sofá,Consumidor,3090.83,933.59,15,4.0
+2023-10-04,Portugal,PRT,Eletrônicos,Fone de Ouvido,Corporativo,7337.88,2797.5,13,4.0
+2023-10-04,Brazil,BRA,Alimentos,Chocolate,Corporativo,92.53,24.21,10,2.2
+2023-10-04,Brazil,BRA,Roupas,Jaqueta,Consumidor,1085.48,133.47,15,4.6
+2023-10-04,Portugal,PRT,Alimentos,Café,Governo,107.11,39.37,7,4.8
+2023-10-05,Peru,PER,Eletrônicos,Celular,Consumidor,13986.18,1101.72,19,2.9
+2023-10-05,Brazil,BRA,Beleza,Batom,Consumidor,223.19,33.58,9,3.3
+2023-10-06,Brazil,BRA,Beleza,Shampoo,Consumidor,75.12,16.67,5,2.2
+2023-10-06,Mexico,MEX,Alimentos,Café,Consumidor,70.62,21.04,3,4.6
+2023-10-07,Chile,CHL,Alimentos,Café,Corporativo,152.12,43.94,19,2.0
+2023-10-07,Peru,PER,Móveis,Sofá,Consumidor,4595.27,1058.0,15,3.6
+2023-10-07,Peru,PER,Roupas,Jaqueta,Consumidor,377.26,158.4,7,4.3
+2023-10-07,Canada,CAN,Roupas,Camiseta,Corporativo,330.14,27.52,5,2.1
+2023-10-07,Canada,CAN,Alimentos,Chocolate,Consumidor,165.81,44.0,12,4.1
+2023-10-07,Argentina,ARG,Roupas,Jaqueta,Consumidor,930.89,63.31,13,2.2
+2023-10-08,Peru,PER,Roupas,Jaqueta,Governo,29.23,10.5,1,2.7
+2023-10-08,Mexico,MEX,Eletrônicos,Notebook,Consumidor,5712.73,572.43,14,2.7
+2023-10-08,United States,USA,Móveis,Sofá,Consumidor,6444.95,2399.91,15,1.3
+2023-10-09,United States,USA,Móveis,Mesa,Consumidor,1702.18,301.11,8,4.4
+2023-10-09,Mexico,MEX,Roupas,Jaqueta,Corporativo,1163.36,375.93,20,1.6
+2023-10-09,Colombia,COL,Roupas,Camiseta,Consumidor,572.1,54.6,9,4.6
+2023-10-09,Argentina,ARG,Eletrônicos,Celular,Corporativo,5910.12,1875.91,13,4.4
+2023-10-09,Peru,PER,Roupas,Camiseta,Consumidor,1296.07,502.28,20,3.0
+2023-10-09,Argentina,ARG,Alimentos,Biscoito,Consumidor,49.37,12.97,4,2.2
+2023-10-10,United States,USA,Alimentos,Chocolate,Consumidor,120.51,-7.95,9,1.3
+2023-10-10,Brazil,BRA,Alimentos,Café,Corporativo,53.65,2.17,3,1.5
+2023-10-10,Spain,ESP,Beleza,Batom,Consumidor,435.75,97.15,14,3.4
+2023-10-10,United States,USA,Beleza,Batom,Consumidor,811.8,260.66,19,1.6
+2023-10-10,Colombia,COL,Móveis,Mesa,Corporativo,2152.0,243.75,6,1.7
+2023-10-10,Canada,CAN,Alimentos,Café,Corporativo,59.5,26.16,7,4.0
+2023-10-11,Canada,CAN,Beleza,Perfume,Consumidor,627.68,178.97,18,2.7
+2023-10-11,Colombia,COL,Beleza,Perfume,Consumidor,178.98,99.47,7,1.9
+2023-10-11,Chile,CHL,Eletrônicos,Fone de Ouvido,Corporativo,4277.1,-734.79,12,4.2
+2023-10-11,Mexico,MEX,Móveis,Mesa,Corporativo,2599.27,852.31,5,2.8
+2023-10-12,Colombia,COL,Eletrônicos,Celular,Consumidor,11487.95,2452.31,16,3.9
+2023-10-12,Canada,CAN,Beleza,Shampoo,Consumidor,39.88,14.39,2,2.6
+2023-10-12,Canada,CAN,Beleza,Shampoo,Consumidor,39.11,10.57,1,1.1
+2023-10-12,United States,USA,Móveis,Mesa,Corporativo,5372.11,2040.01,12,3.2
+2023-10-12,Portugal,PRT,Eletrônicos,Celular,Consumidor,11654.69,3290.4,16,5.0
+2023-10-12,Mexico,MEX,Eletrônicos,Celular,Corporativo,469.34,31.36,1,5.0
+2023-10-13,Canada,CAN,Eletrônicos,Notebook,Corporativo,4606.65,143.19,12,1.1
+2023-10-13,United States,USA,Roupas,Calça,Consumidor,143.15,37.97,2,1.5
+2023-10-13,Portugal,PRT,Alimentos,Chocolate,Consumidor,254.7,26.36,14,2.8
+2023-10-13,Chile,CHL,Móveis,Sofá,Consumidor,5762.19,2175.65,17,1.5
+2023-10-13,Mexico,MEX,Alimentos,Chocolate,Corporativo,221.24,-18.62,17,2.1
+2023-10-13,Brazil,BRA,Eletrônicos,Fone de Ouvido,Consumidor,5725.75,1598.02,20,3.1
+2023-10-13,Portugal,PRT,Eletrônicos,Notebook,Consumidor,5658.47,841.29,8,4.1
+2023-10-14,Chile,CHL,Beleza,Batom,Corporativo,139.87,28.74,9,1.7
+2023-10-14,Portugal,PRT,Móveis,Cadeira,Consumidor,9092.07,1057.05,18,1.8
+2023-10-15,Colombia,COL,Alimentos,Chocolate,Corporativo,187.16,47.34,18,4.2
+2023-10-15,Peru,PER,Beleza,Shampoo,Corporativo,132.37,8.79,7,1.7
+2023-10-15,Spain,ESP,Roupas,Jaqueta,Consumidor,726.35,-35.6,11,2.0
+2023-10-15,Spain,ESP,Beleza,Shampoo,Consumidor,815.2,-72.59,20,4.6
+2023-10-15,Spain,ESP,Móveis,Cadeira,Consumidor,6791.18,1812.58,18,2.6
+2023-10-15,United States,USA,Alimentos,Café,Consumidor,171.59,98.86,12,2.3
+2023-10-15,Mexico,MEX,Móveis,Cadeira,Consumidor,6251.1,2084.99,16,1.7
+2023-10-15,Brazil,BRA,Alimentos,Chocolate,Consumidor,113.93,51.27,6,3.2
+2023-10-16,Canada,CAN,Eletrônicos,Notebook,Consumidor,11674.16,2891.07,20,2.5
+2023-10-16,Colombia,COL,Alimentos,Café,Corporativo,65.91,24.12,4,1.3
+2023-10-16,Colombia,COL,Beleza,Perfume,Governo,377.52,-65.82,10,3.3
+2023-10-16,Colombia,COL,Roupas,Calça,Corporativo,814.57,-0.14,11,5.0
+2023-10-16,United States,USA,Roupas,Jaqueta,Consumidor,96.07,15.26,3,2.8
+2023-10-16,United States,USA,Beleza,Batom,Corporativo,207.74,77.51,5,1.5
+2023-10-16,United States,USA,Roupas,Jaqueta,Corporativo,563.99,199.82,9,3.9
+2023-10-16,Mexico,MEX,Beleza,Batom,Governo,506.03,200.19,19,4.4
+2023-10-17,Spain,ESP,Eletrônicos,Celular,Consumidor,5053.27,1882.13,13,3.1
+2023-10-17,Peru,PER,Alimentos,Café,Consumidor,294.56,97.48,16,1.1
+2023-10-18,Brazil,BRA,Roupas,Camiseta,Consumidor,366.49,201.02,8,4.3
+2023-10-18,Peru,PER,Alimentos,Chocolate,Corporativo,175.77,21.51,20,3.0
+2023-10-18,United States,USA,Roupas,Jaqueta,Consumidor,437.31,128.76,11,1.3
+2023-10-18,Canada,CAN,Beleza,Perfume,Consumidor,506.61,127.28,12,2.2
+2023-10-19,Portugal,PRT,Móveis,Mesa,Consumidor,3970.72,370.27,16,4.7
+2023-10-19,Spain,ESP,Beleza,Perfume,Corporativo,806.31,269.03,19,4.3
+2023-10-19,Mexico,MEX,Beleza,Shampoo,Corporativo,56.46,15.92,3,4.9
+2023-10-19,Colombia,COL,Eletrônicos,Notebook,Consumidor,4076.08,1455.67,10,1.9
+2023-10-20,Chile,CHL,Roupas,Camiseta,Consumidor,221.74,87.32,3,2.5
+2023-10-20,United States,USA,Beleza,Batom,Consumidor,380.05,-16.56,11,5.0
+2023-10-20,Peru,PER,Móveis,Cadeira,Corporativo,2168.84,272.99,5,4.4
+2023-10-20,Brazil,BRA,Roupas,Camiseta,Governo,718.61,213.4,18,4.7
+2023-10-20,Argentina,ARG,Eletrônicos,Celular,Corporativo,2110.61,879.06,6,4.2
+2023-10-20,Mexico,MEX,Eletrônicos,Celular,Consumidor,1059.11,423.14,3,1.8
+2023-10-21,Chile,CHL,Eletrônicos,Notebook,Corporativo,434.87,-9.66,1,3.2
+2023-10-21,Peru,PER,Móveis,Cadeira,Corporativo,6272.27,2491.46,16,3.5
+2023-10-21,Portugal,PRT,Beleza,Shampoo,Consumidor,247.41,48.53,8,1.4
+2023-10-21,Portugal,PRT,Roupas,Calça,Corporativo,159.84,58.28,6,2.0
+2023-10-21,United States,USA,Beleza,Batom,Governo,108.54,18.46,4,2.5
+2023-10-21,Brazil,BRA,Roupas,Camiseta,Corporativo,443.15,137.87,7,1.8
+2023-10-22,Peru,PER,Roupas,Camiseta,Consumidor,713.32,400.11,11,3.5
+2023-10-22,Colombia,COL,Eletrônicos,Notebook,Consumidor,7704.83,1917.21,15,4.8
+2023-10-22,Brazil,BRA,Alimentos,Chocolate,Corporativo,107.28,36.18,10,3.2
+2023-10-23,Mexico,MEX,Eletrônicos,Notebook,Consumidor,3514.97,431.06,10,2.3
+2023-10-23,Spain,ESP,Roupas,Calça,Consumidor,176.93,92.9,3,4.7
+2023-10-23,United States,USA,Alimentos,Chocolate,Corporativo,100.33,27.88,10,4.6
+2023-10-23,Mexico,MEX,Eletrônicos,Notebook,Corporativo,8671.93,6154.63,18,4.1
+2023-10-23,Mexico,MEX,Roupas,Camiseta,Consumidor,871.06,426.1,14,2.8
+2023-10-23,Argentina,ARG,Eletrônicos,Celular,Corporativo,1903.58,304.59,7,1.2
+2023-10-24,Canada,CAN,Beleza,Batom,Corporativo,67.17,8.56,2,3.8
+2023-10-25,Portugal,PRT,Beleza,Shampoo,Consumidor,145.62,58.44,7,3.3
+2023-10-26,Brazil,BRA,Roupas,Camiseta,Corporativo,871.94,121.81,13,1.4
+2023-10-26,United States,USA,Beleza,Batom,Consumidor,38.39,5.22,1,1.7
+2023-10-27,Colombia,COL,Eletrônicos,Notebook,Consumidor,9090.06,3087.27,15,2.7
+2023-10-27,Argentina,ARG,Móveis,Cadeira,Governo,4905.63,2367.46,10,3.2
+2023-10-28,Mexico,MEX,Roupas,Jaqueta,Consumidor,373.83,17.45,12,4.7
+2023-10-28,United States,USA,Eletrônicos,Fone de Ouvido,Corporativo,647.19,98.73,1,4.6
+2023-10-28,Chile,CHL,Beleza,Perfume,Corporativo,496.73,154.35,19,1.5
+2023-10-28,Argentina,ARG,Roupas,Camiseta,Consumidor,410.36,131.71,10,1.1
+2023-10-29,Peru,PER,Roupas,Camiseta,Corporativo,64.28,19.26,1,4.0
+2023-10-29,United States,USA,Móveis,Mesa,Corporativo,3267.67,-333.09,9,2.6
+2023-10-29,Canada,CAN,Móveis,Sofá,Consumidor,4790.09,751.4,18,3.4
+2023-10-29,United States,USA,Roupas,Calça,Corporativo,866.21,386.86,18,2.2
+2023-10-29,Canada,CAN,Beleza,Batom,Corporativo,678.03,258.74,19,4.5
+2023-10-30,Mexico,MEX,Alimentos,Biscoito,Corporativo,120.64,10.94,9,1.5
+2023-10-30,Brazil,BRA,Roupas,Jaqueta,Corporativo,585.45,232.65,18,1.2
+2023-10-30,United States,USA,Alimentos,Chocolate,Corporativo,155.42,-22.01,11,1.7
+2023-10-30,Peru,PER,Alimentos,Biscoito,Consumidor,337.88,68.77,17,1.9
+2023-10-30,Argentina,ARG,Roupas,Camiseta,Corporativo,399.47,5.38,6,2.7
+2023-10-30,Chile,CHL,Beleza,Batom,Corporativo,206.62,50.96,5,4.4
+2023-10-30,Colombia,COL,Móveis,Mesa,Consumidor,2570.86,552.85,7,2.6
+2023-10-30,Canada,CAN,Beleza,Batom,Consumidor,588.39,129.49,20,3.5
+2023-10-31,Mexico,MEX,Alimentos,Café,Consumidor,85.71,17.06,7,2.7
+2023-10-31,Argentina,ARG,Móveis,Sofá,Governo,2628.05,431.42,7,3.4
+2023-10-31,Peru,PER,Móveis,Mesa,Corporativo,3726.93,-99.76,18,4.4
+2023-10-31,United States,USA,Eletrônicos,Notebook,Consumidor,10972.41,3340.11,16,2.5
+2023-10-31,Peru,PER,Alimentos,Café,Corporativo,281.9,64.82,17,2.1
+2023-11-01,United States,USA,Móveis,Cadeira,Consumidor,4829.44,1258.49,15,1.9
+2023-11-01,Argentina,ARG,Roupas,Camiseta,Consumidor,142.73,44.56,3,2.8
+2023-11-01,Peru,PER,Alimentos,Chocolate,Consumidor,255.75,99.97,16,5.0
+2023-11-01,Argentina,ARG,Roupas,Camiseta,Corporativo,631.67,198.67,16,4.3
+2023-11-01,Peru,PER,Beleza,Shampoo,Consumidor,251.58,43.34,7,4.8
+2023-11-02,United States,USA,Alimentos,Biscoito,Governo,229.11,22.55,10,2.1
+2023-11-02,Mexico,MEX,Beleza,Perfume,Consumidor,82.83,24.88,3,4.2
+2023-11-02,Colombia,COL,Móveis,Sofá,Consumidor,1221.04,550.72,3,3.2
+2023-11-03,Argentina,ARG,Alimentos,Café,Corporativo,64.78,5.66,3,2.4
+2023-11-03,Chile,CHL,Eletrônicos,Notebook,Consumidor,8473.53,697.36,12,4.6
+2023-11-03,Spain,ESP,Beleza,Perfume,Corporativo,399.65,71.25,15,1.2
+2023-11-04,Colombia,COL,Beleza,Batom,Consumidor,345.11,119.13,17,4.8
+2023-11-04,United States,USA,Eletrônicos,Celular,Corporativo,7268.83,3207.79,15,4.4
+2023-11-04,Portugal,PRT,Beleza,Shampoo,Consumidor,182.92,18.29,6,1.9
+2023-11-05,Colombia,COL,Roupas,Jaqueta,Governo,760.12,186.31,13,4.3
+2023-11-05,Portugal,PRT,Alimentos,Chocolate,Consumidor,280.67,-4.55,14,1.5
+2023-11-05,United States,USA,Alimentos,Biscoito,Consumidor,31.06,3.91,2,2.0
+2023-11-05,Argentina,ARG,Eletrônicos,Fone de Ouvido,Consumidor,7876.4,1694.97,12,1.4
+2023-11-06,Canada,CAN,Móveis,Cadeira,Consumidor,4378.9,427.01,12,3.9
+2023-11-06,Canada,CAN,Móveis,Mesa,Consumidor,497.47,116.59,1,1.4
+2023-11-06,Argentina,ARG,Eletrônicos,Notebook,Corporativo,6668.35,494.49,17,5.0
+2023-11-06,Portugal,PRT,Eletrônicos,Fone de Ouvido,Corporativo,3953.71,246.79,6,4.6
+2023-11-07,Canada,CAN,Alimentos,Biscoito,Consumidor,168.19,59.81,9,1.2
+2023-11-07,Portugal,PRT,Roupas,Jaqueta,Governo,188.31,44.43,4,2.4
+2023-11-07,Chile,CHL,Eletrônicos,Notebook,Consumidor,11402.51,920.03,20,4.5
+2023-11-07,Portugal,PRT,Móveis,Mesa,Consumidor,6134.22,2847.82,13,4.8
+2023-11-07,Spain,ESP,Eletrônicos,Notebook,Consumidor,7354.52,1259.58,10,4.6
+2023-11-07,Brazil,BRA,Eletrônicos,Notebook,Consumidor,2485.06,516.24,8,3.3
+2023-11-08,Spain,ESP,Roupas,Camiseta,Consumidor,89.32,18.56,2,1.6
+2023-11-08,United States,USA,Roupas,Camiseta,Consumidor,795.25,317.01,17,3.8
+2023-11-08,Canada,CAN,Beleza,Perfume,Corporativo,546.69,113.15,14,2.8
+2023-11-08,Portugal,PRT,Beleza,Perfume,Corporativo,17.85,2.12,1,3.5
+2023-11-09,Spain,ESP,Eletrônicos,Fone de Ouvido,Consumidor,7559.23,3757.02,15,3.1
+2023-11-09,Chile,CHL,Móveis,Cadeira,Consumidor,5519.35,802.88,11,4.0
+2023-11-09,Portugal,PRT,Beleza,Shampoo,Consumidor,211.43,44.33,5,2.6
+2023-11-09,Chile,CHL,Eletrônicos,Notebook,Corporativo,1982.37,414.93,3,4.3
+2023-11-09,Canada,CAN,Roupas,Calça,Corporativo,580.72,98.01,12,3.9
+2023-11-09,Argentina,ARG,Móveis,Sofá,Corporativo,1361.5,493.01,6,4.7
+2023-11-10,United States,USA,Eletrônicos,Celular,Corporativo,6355.17,520.26,20,1.8
+2023-11-10,Canada,CAN,Beleza,Shampoo,Consumidor,256.04,-28.02,16,3.3
+2023-11-10,Spain,ESP,Eletrônicos,Notebook,Consumidor,8499.86,1452.4,12,4.5
+2023-11-11,Brazil,BRA,Móveis,Sofá,Corporativo,5587.02,159.85,17,4.1
+2023-11-11,United States,USA,Móveis,Cadeira,Corporativo,826.24,181.48,3,4.9
+2023-11-11,Colombia,COL,Móveis,Mesa,Corporativo,4431.97,1083.67,10,3.7
+2023-11-11,Peru,PER,Móveis,Mesa,Consumidor,4661.84,968.98,12,3.8
+2023-11-12,Peru,PER,Móveis,Mesa,Consumidor,3255.81,384.99,17,2.2
+2023-11-12,Canada,CAN,Alimentos,Café,Consumidor,326.24,6.79,15,3.2
+2023-11-12,Colombia,COL,Móveis,Mesa,Corporativo,2295.71,764.29,6,3.2
+2023-11-12,Argentina,ARG,Roupas,Calça,Consumidor,241.02,21.68,7,2.3
+2023-11-12,Mexico,MEX,Alimentos,Café,Consumidor,119.69,32.18,6,4.5
+2023-11-13,Argentina,ARG,Roupas,Jaqueta,Governo,1110.32,-53.06,19,3.6
+2023-11-13,Colombia,COL,Roupas,Calça,Corporativo,893.9,181.8,15,4.5
+2023-11-13,United States,USA,Roupas,Jaqueta,Governo,715.74,168.3,11,1.4
+2023-11-13,Peru,PER,Eletrônicos,Celular,Governo,7979.27,3138.5,13,4.8
+2023-11-14,Colombia,COL,Móveis,Sofá,Corporativo,2031.86,439.41,4,3.5
+2023-11-14,Colombia,COL,Beleza,Batom,Consumidor,555.76,82.41,17,1.7
+2023-11-14,Spain,ESP,Móveis,Sofá,Corporativo,2240.93,609.04,11,4.2
+2023-11-14,United States,USA,Roupas,Calça,Consumidor,1084.04,216.24,18,4.2
+2023-11-14,Brazil,BRA,Móveis,Sofá,Governo,2782.52,919.81,7,4.0
+2023-11-14,Colombia,COL,Móveis,Mesa,Consumidor,5375.89,1897.16,12,1.2
+2023-11-14,Mexico,MEX,Beleza,Batom,Consumidor,123.06,23.94,3,4.6
+2023-11-15,Colombia,COL,Beleza,Shampoo,Consumidor,252.32,7.64,14,4.4
+2023-11-15,United States,USA,Beleza,Batom,Governo,314.22,129.8,11,1.9
+2023-11-15,Mexico,MEX,Eletrônicos,Fone de Ouvido,Governo,5778.28,939.72,17,1.0
+2023-11-15,Canada,CAN,Roupas,Calça,Consumidor,162.64,34.97,4,4.5
+2023-11-15,Peru,PER,Móveis,Cadeira,Consumidor,6226.69,1795.94,20,2.2
+2023-11-16,Argentina,ARG,Alimentos,Biscoito,Consumidor,26.81,6.56,3,2.0
+2023-11-16,Brazil,BRA,Beleza,Batom,Consumidor,583.06,-56.91,16,2.2
+2023-11-16,Argentina,ARG,Móveis,Cadeira,Corporativo,5885.38,372.39,18,3.8
+2023-11-16,Peru,PER,Móveis,Mesa,Corporativo,4689.22,1134.61,10,1.6
+2023-11-16,Chile,CHL,Móveis,Cadeira,Consumidor,3551.37,662.91,15,4.9
+2023-11-17,Chile,CHL,Roupas,Camiseta,Corporativo,814.65,-5.41,14,1.7
+2023-11-17,Portugal,PRT,Móveis,Sofá,Corporativo,8276.28,3105.71,16,1.9
+2023-11-17,Peru,PER,Roupas,Jaqueta,Consumidor,510.08,-32.48,10,2.3
+2023-11-17,United States,USA,Beleza,Perfume,Consumidor,339.63,59.03,14,4.1
+2023-11-18,Brazil,BRA,Móveis,Mesa,Consumidor,1398.99,-60.95,7,4.8
+2023-11-18,Brazil,BRA,Alimentos,Biscoito,Governo,164.86,0.24,9,3.0
+2023-11-18,Peru,PER,Alimentos,Biscoito,Corporativo,351.76,151.2,19,2.3
+2023-11-19,Canada,CAN,Eletrônicos,Celular,Governo,5361.77,714.01,8,1.1
+2023-11-19,Chile,CHL,Eletrônicos,Celular,Governo,6526.22,1548.84,12,1.4
+2023-11-19,Mexico,MEX,Beleza,Batom,Consumidor,282.86,106.91,9,2.5
+2023-11-19,Chile,CHL,Roupas,Camiseta,Corporativo,644.99,246.59,16,1.2
+2023-11-20,Portugal,PRT,Eletrônicos,Fone de Ouvido,Consumidor,2925.57,808.18,4,4.2
+2023-11-20,Canada,CAN,Eletrônicos,Celular,Consumidor,4706.37,1450.46,10,2.1
+2023-11-20,Chile,CHL,Móveis,Sofá,Consumidor,3861.3,879.7,17,3.3
+2023-11-20,Argentina,ARG,Eletrônicos,Celular,Consumidor,1186.02,390.89,2,1.3
+2023-11-21,Spain,ESP,Roupas,Jaqueta,Corporativo,414.85,13.47,6,2.6
+2023-11-21,Chile,CHL,Roupas,Calça,Consumidor,550.2,273.39,11,2.3
+2023-11-21,Argentina,ARG,Móveis,Cadeira,Consumidor,3354.69,848.49,13,3.4
+2023-11-22,United States,USA,Roupas,Jaqueta,Consumidor,180.46,21.53,4,4.5
+2023-11-22,Chile,CHL,Alimentos,Chocolate,Consumidor,342.15,68.81,18,5.0
+2023-11-22,Spain,ESP,Roupas,Jaqueta,Consumidor,827.64,201.31,16,4.5
+2023-11-22,Brazil,BRA,Roupas,Calça,Consumidor,689.68,247.3,14,1.8
+2023-11-22,Spain,ESP,Eletrônicos,Celular,Corporativo,730.08,214.57,2,1.0
+2023-11-23,Argentina,ARG,Eletrônicos,Notebook,Corporativo,4187.46,526.26,16,3.5
+2023-11-23,United States,USA,Beleza,Batom,Corporativo,236.03,33.67,11,2.5
+2023-11-23,Mexico,MEX,Alimentos,Biscoito,Corporativo,207.66,60.05,17,4.0
+2023-11-23,Mexico,MEX,Alimentos,Biscoito,Corporativo,17.7,2.27,1,2.9
+2023-11-24,Canada,CAN,Eletrônicos,Fone de Ouvido,Consumidor,941.23,233.18,2,4.0
+2023-11-24,United States,USA,Eletrônicos,Notebook,Corporativo,775.45,63.95,2,2.6
+2023-11-24,Canada,CAN,Beleza,Perfume,Consumidor,378.23,72.04,10,4.1
+2023-11-24,Canada,CAN,Eletrônicos,Notebook,Corporativo,13624.34,5073.86,20,4.1
+2023-11-24,United States,USA,Beleza,Batom,Corporativo,362.47,56.89,9,1.8
+2023-11-24,Mexico,MEX,Beleza,Batom,Consumidor,57.11,6.93,2,2.5
+2023-11-25,Spain,ESP,Alimentos,Chocolate,Consumidor,181.89,28.14,18,4.4
+2023-11-25,Mexico,MEX,Beleza,Perfume,Consumidor,349.05,15.92,13,4.2
+2023-11-26,Brazil,BRA,Alimentos,Biscoito,Corporativo,375.66,175.62,17,2.3
+2023-11-26,Spain,ESP,Beleza,Perfume,Corporativo,257.38,42.47,9,1.7
+2023-11-26,Chile,CHL,Móveis,Sofá,Consumidor,4246.08,535.65,14,1.1
+2023-11-26,Spain,ESP,Beleza,Shampoo,Consumidor,391.86,112.88,11,4.8
+2023-11-26,Chile,CHL,Alimentos,Biscoito,Consumidor,109.3,6.38,9,3.5
+2023-11-26,United States,USA,Eletrônicos,Notebook,Corporativo,2090.07,166.62,6,2.8
+2023-11-26,United States,USA,Beleza,Perfume,Corporativo,288.73,60.9,15,4.0
+2023-11-27,Chile,CHL,Móveis,Sofá,Consumidor,1583.86,245.44,5,3.5
+2023-11-27,Brazil,BRA,Roupas,Camiseta,Consumidor,95.5,-2.21,2,2.7
+2023-11-27,Canada,CAN,Móveis,Cadeira,Consumidor,2702.86,340.4,9,3.6
+2023-11-27,United States,USA,Eletrônicos,Celular,Governo,6451.27,493.34,9,1.3
+2023-11-28,Peru,PER,Móveis,Mesa,Corporativo,1678.18,206.05,9,3.3
+2023-11-29,Mexico,MEX,Móveis,Sofá,Consumidor,264.96,18.3,1,1.4
+2023-11-30,Spain,ESP,Roupas,Calça,Corporativo,771.29,84.38,17,4.2
+2023-12-01,Argentina,ARG,Móveis,Mesa,Consumidor,952.76,61.1,4,4.0
+2023-12-01,Brazil,BRA,Móveis,Sofá,Consumidor,4918.79,2086.67,17,1.7
+2023-12-01,Portugal,PRT,Alimentos,Chocolate,Consumidor,201.2,59.78,10,4.0
+2023-12-01,Argentina,ARG,Roupas,Camiseta,Corporativo,271.42,74.75,9,4.4
+2023-12-01,United States,USA,Alimentos,Biscoito,Corporativo,199.06,53.5,13,2.4
+2023-12-02,Brazil,BRA,Eletrônicos,Fone de Ouvido,Consumidor,4267.72,293.64,6,3.3
+2023-12-02,Brazil,BRA,Beleza,Batom,Consumidor,187.4,15.16,5,5.0
+2023-12-03,Spain,ESP,Móveis,Cadeira,Consumidor,5425.98,1615.75,11,1.1
+2023-12-03,Colombia,COL,Roupas,Calça,Consumidor,228.94,25.14,4,4.2
+2023-12-03,Argentina,ARG,Roupas,Calça,Consumidor,844.51,423.56,20,3.1
+2023-12-03,Argentina,ARG,Móveis,Mesa,Consumidor,4321.69,695.52,13,3.9
+2023-12-04,Canada,CAN,Móveis,Cadeira,Consumidor,6417.61,-654.28,16,3.3
+2023-12-04,Chile,CHL,Alimentos,Biscoito,Consumidor,11.05,2.86,1,1.6
+2023-12-04,Peru,PER,Roupas,Camiseta,Governo,74.13,24.11,1,4.7
+2023-12-04,United States,USA,Beleza,Shampoo,Governo,437.2,78.78,18,1.5
+2023-12-05,Spain,ESP,Roupas,Jaqueta,Governo,921.81,83.48,16,2.3
+2023-12-05,Canada,CAN,Eletrônicos,Celular,Consumidor,2565.69,796.42,7,1.7
+2023-12-05,Argentina,ARG,Beleza,Batom,Consumidor,194.32,62.66,7,1.7
+2023-12-05,Colombia,COL,Alimentos,Café,Consumidor,19.12,-1.94,2,4.0
+2023-12-06,Brazil,BRA,Roupas,Calça,Consumidor,556.92,41.62,11,2.8
+2023-12-06,Brazil,BRA,Roupas,Camiseta,Consumidor,1437.55,295.38,20,3.9
+2023-12-06,Mexico,MEX,Eletrônicos,Fone de Ouvido,Consumidor,6070.94,68.58,14,4.9
+2023-12-06,Chile,CHL,Roupas,Camiseta,Corporativo,273.03,18.46,10,2.8
+2023-12-06,Colombia,COL,Móveis,Cadeira,Consumidor,4337.13,299.04,9,3.4
+2023-12-07,Peru,PER,Eletrônicos,Notebook,Governo,2866.23,545.09,10,3.4
+2023-12-07,Peru,PER,Alimentos,Café,Consumidor,70.6,8.56,7,1.4
+2023-12-07,Colombia,COL,Móveis,Cadeira,Consumidor,8935.15,1330.65,18,2.0
+2023-12-07,Spain,ESP,Eletrônicos,Celular,Corporativo,3639.8,724.12,5,4.3
+2023-12-08,Mexico,MEX,Roupas,Camiseta,Consumidor,276.13,18.13,4,4.8
+2023-12-08,Colombia,COL,Roupas,Calça,Corporativo,365.49,95.07,11,2.6
+2023-12-08,Mexico,MEX,Alimentos,Biscoito,Consumidor,235.87,120.05,17,4.0
+2023-12-08,Colombia,COL,Alimentos,Café,Consumidor,88.56,40.82,8,2.4
+2023-12-08,Chile,CHL,Eletrônicos,Fone de Ouvido,Corporativo,4720.18,1366.94,8,1.3
+2023-12-08,Brazil,BRA,Móveis,Sofá,Governo,4308.09,327.21,16,1.4
+2023-12-08,Chile,CHL,Móveis,Cadeira,Consumidor,1195.08,276.94,5,3.7
+2023-12-08,Argentina,ARG,Roupas,Camiseta,Consumidor,58.59,17.4,1,2.2
+2023-12-08,Brazil,BRA,Beleza,Shampoo,Consumidor,386.69,84.67,13,3.6
+2023-12-09,United States,USA,Beleza,Shampoo,Consumidor,398.49,176.63,9,2.4
+2023-12-10,Spain,ESP,Beleza,Perfume,Consumidor,660.0,91.47,16,2.1
+2023-12-10,Peru,PER,Beleza,Shampoo,Consumidor,37.86,21.55,2,1.8
+2023-12-10,Peru,PER,Móveis,Cadeira,Consumidor,3071.63,330.81,13,4.9
+2023-12-11,United States,USA,Eletrônicos,Notebook,Consumidor,2734.32,233.78,8,4.5
+2023-12-11,Spain,ESP,Roupas,Camiseta,Corporativo,627.87,304.99,11,4.5
+2023-12-12,Spain,ESP,Roupas,Calça,Consumidor,407.45,133.16,16,2.5
+2023-12-12,Portugal,PRT,Alimentos,Café,Consumidor,126.26,38.09,8,2.8
+2023-12-12,Mexico,MEX,Alimentos,Biscoito,Consumidor,232.81,37.48,20,2.9
+2023-12-12,Chile,CHL,Eletrônicos,Celular,Consumidor,2612.19,220.29,4,2.9
+2023-12-12,Brazil,BRA,Beleza,Perfume,Corporativo,409.67,83.04,17,2.1
+2023-12-12,Canada,CAN,Beleza,Batom,Consumidor,181.02,68.29,10,2.7
+2023-12-12,Spain,ESP,Beleza,Batom,Consumidor,27.55,2.01,1,3.8
+2023-12-12,Portugal,PRT,Eletrônicos,Fone de Ouvido,Consumidor,2981.12,577.78,8,2.6
+2023-12-12,Argentina,ARG,Móveis,Sofá,Consumidor,2185.41,446.91,5,1.5
+2023-12-13,Canada,CAN,Eletrônicos,Celular,Corporativo,8435.1,1061.59,12,2.9
+2023-12-13,Chile,CHL,Beleza,Batom,Consumidor,237.07,92.07,12,2.0
+2023-12-14,Peru,PER,Móveis,Sofá,Corporativo,6515.87,-44.02,15,3.2
+2023-12-14,Chile,CHL,Eletrônicos,Notebook,Consumidor,3610.24,691.39,5,4.2
+2023-12-14,Colombia,COL,Roupas,Jaqueta,Consumidor,242.8,113.57,7,1.6
+2023-12-14,Argentina,ARG,Beleza,Batom,Consumidor,351.13,89.76,12,4.5
+2023-12-15,Mexico,MEX,Beleza,Shampoo,Corporativo,181.98,17.6,9,1.1
+2023-12-15,Portugal,PRT,Beleza,Batom,Consumidor,187.81,24.91,6,2.7
+2023-12-15,Argentina,ARG,Eletrônicos,Notebook,Corporativo,9487.53,3047.0,18,4.5
+2023-12-15,Canada,CAN,Móveis,Mesa,Corporativo,2544.19,952.14,9,3.9
+2023-12-15,Mexico,MEX,Eletrônicos,Notebook,Consumidor,6904.73,2516.65,12,3.5
+2023-12-15,Mexico,MEX,Eletrônicos,Notebook,Corporativo,6168.79,1097.4,20,2.8
+2023-12-15,Brazil,BRA,Móveis,Sofá,Corporativo,3639.54,683.67,9,3.8
+2023-12-15,United States,USA,Alimentos,Biscoito,Corporativo,227.37,107.75,20,2.9
+2023-12-16,Chile,CHL,Beleza,Shampoo,Consumidor,154.06,-13.31,7,1.5
+2023-12-16,Portugal,PRT,Móveis,Cadeira,Consumidor,4288.24,998.27,19,4.9
+2023-12-16,Spain,ESP,Eletrônicos,Celular,Consumidor,3582.46,214.11,14,1.6
+2023-12-16,Argentina,ARG,Móveis,Mesa,Consumidor,6941.16,3062.29,16,2.7
+2023-12-17,Canada,CAN,Eletrônicos,Notebook,Consumidor,13436.23,1882.52,19,4.7
+2023-12-17,Mexico,MEX,Móveis,Sofá,Corporativo,413.22,46.11,1,4.8
+2023-12-18,Chile,CHL,Móveis,Mesa,Consumidor,8679.36,2119.14,18,2.7
+2023-12-18,Chile,CHL,Móveis,Mesa,Corporativo,3106.32,693.18,16,3.7
+2023-12-18,Argentina,ARG,Alimentos,Café,Consumidor,113.97,52.36,8,1.1
+2023-12-19,Mexico,MEX,Eletrônicos,Notebook,Corporativo,5645.59,1267.39,10,2.7
+2023-12-19,Colombia,COL,Beleza,Perfume,Consumidor,72.96,8.58,4,1.9
+2023-12-20,United States,USA,Roupas,Camiseta,Corporativo,567.95,20.99,8,2.6
+2023-12-20,Argentina,ARG,Móveis,Sofá,Consumidor,4159.38,820.42,10,4.1
+2023-12-21,United States,USA,Alimentos,Café,Consumidor,16.1,4.87,2,3.9
+2023-12-21,Peru,PER,Roupas,Calça,Governo,390.54,147.84,10,2.3
+2023-12-21,Portugal,PRT,Alimentos,Café,Consumidor,145.75,44.54,7,4.6
+2023-12-21,Portugal,PRT,Móveis,Mesa,Consumidor,3384.43,1134.4,16,3.8
+2023-12-21,Portugal,PRT,Móveis,Mesa,Corporativo,3126.13,691.59,9,3.8
+2023-12-22,Peru,PER,Eletrônicos,Fone de Ouvido,Corporativo,5743.9,1125.66,12,1.4
+2023-12-22,Peru,PER,Beleza,Shampoo,Corporativo,165.51,30.18,7,4.2
+2023-12-22,Peru,PER,Eletrônicos,Celular,Consumidor,6467.39,941.85,13,3.3
+2023-12-23,Colombia,COL,Roupas,Camiseta,Consumidor,683.89,57.9,14,4.4
+2023-12-23,Peru,PER,Roupas,Jaqueta,Corporativo,52.18,8.98,1,4.0
+2023-12-23,United States,USA,Móveis,Sofá,Corporativo,5632.34,46.53,11,1.8
+2023-12-24,Brazil,BRA,Alimentos,Chocolate,Consumidor,154.8,65.31,19,3.7
+2023-12-24,Chile,CHL,Alimentos,Café,Consumidor,162.83,16.74,15,2.8
+2023-12-25,Brazil,BRA,Eletrônicos,Notebook,Consumidor,6424.1,2223.5,12,3.6
+2023-12-25,Brazil,BRA,Móveis,Mesa,Consumidor,1331.27,330.21,4,3.8
+2023-12-25,Spain,ESP,Beleza,Shampoo,Governo,541.5,6.64,14,4.8
+2023-12-25,Canada,CAN,Eletrônicos,Celular,Consumidor,7951.76,1252.11,11,2.6
+2023-12-26,Spain,ESP,Alimentos,Café,Consumidor,223.44,18.27,12,2.5
+2023-12-26,Spain,ESP,Móveis,Mesa,Consumidor,8142.37,186.25,18,1.5
+2023-12-26,Spain,ESP,Eletrônicos,Fone de Ouvido,Consumidor,7472.39,1522.47,16,4.8
+2023-12-26,Canada,CAN,Alimentos,Café,Consumidor,96.1,11.04,5,1.1
+2023-12-26,Brazil,BRA,Beleza,Shampoo,Consumidor,580.16,186.14,16,4.8
+2023-12-26,Brazil,BRA,Beleza,Batom,Governo,427.07,28.05,13,5.0
+2023-12-26,Canada,CAN,Eletrônicos,Notebook,Corporativo,6359.34,2069.83,12,4.4
+2023-12-26,Mexico,MEX,Alimentos,Café,Consumidor,96.78,43.26,7,1.7
+2023-12-27,Mexico,MEX,Beleza,Shampoo,Corporativo,476.22,155.67,14,4.9
+2023-12-27,Canada,CAN,Beleza,Batom,Consumidor,542.43,18.12,19,2.1
+2023-12-27,Argentina,ARG,Roupas,Jaqueta,Consumidor,687.58,-8.5,13,1.1
+2023-12-27,Portugal,PRT,Móveis,Mesa,Consumidor,4587.43,1039.2,19,4.5
+2023-12-28,United States,USA,Alimentos,Café,Consumidor,348.53,179.37,17,3.3
+2023-12-29,Chile,CHL,Beleza,Shampoo,Consumidor,45.0,7.45,2,4.3
+2023-12-29,United States,USA,Roupas,Calça,Consumidor,1042.44,324.48,16,5.0
+2023-12-29,Mexico,MEX,Eletrônicos,Notebook,Consumidor,4883.77,1074.05,10,1.8
+2023-12-30,Colombia,COL,Eletrônicos,Celular,Governo,6425.06,1440.08,9,2.0
+2023-12-30,Portugal,PRT,Móveis,Sofá,Consumidor,8289.96,1344.57,17,3.8
+2023-12-30,Colombia,COL,Eletrônicos,Celular,Consumidor,2334.31,644.2,5,4.7
+2023-12-30,Colombia,COL,Alimentos,Café,Consumidor,103.59,39.51,10,1.5
+2023-12-30,Colombia,COL,Móveis,Sofá,Corporativo,3960.34,112.48,15,2.0
+2023-12-31,Portugal,PRT,Eletrônicos,Celular,Consumidor,9320.69,1354.59,19,1.2
+2023-12-31,Brazil,BRA,Roupas,Camiseta,Consumidor,271.96,22.46,7,3.0
+2023-12-31,Canada,CAN,Roupas,Calça,Consumidor,1045.98,120.99,16,2.4
+2023-12-31,Peru,PER,Roupas,Camiseta,Consumidor,301.51,39.16,5,2.7
+2023-12-31,Chile,CHL,Beleza,Batom,Corporativo,300.43,49.75,20,4.8
+2023-12-31,Colombia,COL,Beleza,Batom,Governo,525.79,145.3,19,1.9
+2023-12-31,Canada,CAN,Eletrônicos,Celular,Consumidor,5320.55,1003.19,15,3.1
+2023-12-31,Mexico,MEX,Alimentos,Biscoito,Consumidor,47.5,4.96,4,1.1
+2023-12-31,Spain,ESP,Eletrônicos,Celular,Consumidor,280.77,-12.73,1,1.4
