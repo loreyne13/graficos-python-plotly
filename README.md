@@ -8,7 +8,9 @@ Bibliotecas Utilizadas
 - **Plotly Express**: Para a geração de gráficos interativos.
 
 Gráficos Desenvolvidos
+
 À medida que os estudos avançam, novos scripts são adicionados a esta lista:
+
 - [x] **Gráfico de Barras:** Análise do total de vendas agrupado por categoria de produtos.
 
 Como visualizar os resultados
